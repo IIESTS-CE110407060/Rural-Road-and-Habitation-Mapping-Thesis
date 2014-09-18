@@ -1,0 +1,6794 @@
+/3.2
+(ODB.1
+	Dependencies:	"$AVEXT/xtools.avx\n$AVEXT/tiff.avx\n$AVEXT/inetmap.avx\n$AVEXT/imagine.avx\n"
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"projarambhag.apr"
+	CreationDate:	"Thursday, December 16, 2010 10:16:31 AM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	DocExts:	6
+	VisGUIWidth:	70
+	Doc:	7
+	Doc:	470
+	Doc:	501
+	Doc:	88
+	Doc:	203
+	Doc:	434
+	Doc:	553
+	Doc:	361
+	Doc:	125
+	Doc:	272
+	Doc:	310
+	Doc:	578
+	Doc:	41
+	ActiveDoc:	41
+	Buttons:	602
+	Buttons:	603
+	Buttons:	604
+	Dependencies:	605
+	Dependencies:	606
+	Dependencies:	607
+	Dependencies:	608
+	Scripts:	609
+	Prefs:	610
+	GUI:	620
+	GUI:	1429
+	WorkDir:	1501
+	WinX:	-4
+	WinY:	-3
+	WinW:	1374
+	WinH:	745
+	SerialNumber:	"825911108402"
+	SelColor:	1502
+	GUINames:	1503
+	GUINames:	1504
+	GUINames:	1505
+	GUINames:	1506
+	GUINames:	1507
+	GUINames:	1508
+	GUINames:	1509
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	684
+	Y:	312
+	W:	684
+	H:	312
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(InetPExt.6
+	Project:	2
+	WebPort:	80
+	Timeout:	20
+	Retry:	5
+	MaxPending:	10
+)
+
+(Table.7
+	Name:	"Attributes of Block headquater.shp"
+	CreationDate:	"Wednesday, May 11, 2011 4:24:55 PM"
+	GUIName:	"Table"
+	Win:	8
+	CSMgr:	9
+	DocExts:	552
+	VTab:	15
+)
+
+(DocWin.8
+	Owner:	7
+	X:	399
+	Y:	45
+	W:	365
+	H:	255
+)
+
+(CSMgr.9
+	Client:	10
+)
+
+(CSClient.10
+	Client:	11
+	ReqName:	"RespondTable"
+)
+
+(FTheme.11
+	Name:	"Block headquater.shp"
+	Source:	12
+	Flags:	0x04
+	Legend:	21
+	Threshold:	40
+	View:	41
+	GSet:	550
+	LegEditScript:	"View.EditLegend"
+	TxPos:	551
+	Table:	7
+	SnapTolCursor:	1
+)
+
+(ShpSrc.12
+	Name:	13
+	FTab:	15
+)
+
+(SrcName.13
+	FileName:	14
+	Name:	"block headquater.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.14
+	Path:	"e:/8th sem project/gis arambagh/block headquater.shp"
+)
+
+(FTab.15
+	Name:	"block headquater.dbf"
+	BTab:	16
+	Fields:	19
+	Fields:	17
+	SelBits:	20
+	FSrc:	12
+)
+
+(dBASE.16
+	Name:	"block headquater.dbf"
+	Fields:	17
+	FileName:	18
+)
+
+(Field.17
+	Name:	"ID"
+	Btab:	16
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.18
+	Path:	"e:/8th sem project/gis arambagh/block headquater.dbf"
+)
+
+(Field.19
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.20
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.21
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	22
+	Class:	30
+	StdDevs:	1.00000000000000
+	NullSym:	31
+	NullValues:	38
+	StatValues:	39
+	Precision:	-3
+)
+
+(SymList.22
+	Child:	23
+)
+
+(BMkSym.23
+	Color:	24
+	BgColor:	25
+	Font:	26
+	Size:	10.00000000000000
+	Pattern:	36
+	Angle:	360.00000000000000
+)
+
+(TClr.24
+	Red:	0x8200
+	Green:	0x81
+	Blue:	0x81
+)
+
+(TClr.25
+	Name:	"Transparent"
+)
+
+(NFont.26
+	Family:	27
+	Name:	28
+	Style:	29
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.27
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.28
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.29
+	S:	"Normal"
+)
+
+(LClass.30
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.31
+	Color:	32
+	BgColor:	33
+	Font:	34
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.32
+	Name:	"Transparent"
+)
+
+(TClr.33
+	Name:	"Transparent"
+)
+
+(NFont.34
+	Family:	35
+	Name:	36
+	Style:	37
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.35
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.36
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.37
+	S:	"Normal"
+)
+
+(NameDict.38
+)
+
+(NameDict.39
+)
+
+(Thresh.40
+)
+
+(View.41
+	Name:	"View1"
+	CreationDate:	"Thursday, December 16, 2010 10:30:01 AM"
+	GUIName:	"View"
+	Win:	42
+	CSMgr:	43
+	DocExts:	45
+	DocExts:	46
+	DocExts:	47
+	Graphics:	49
+	Theme:	11
+	Theme:	56
+	Theme:	93
+	Theme:	130
+	Theme:	208
+	Theme:	240
+	Theme:	277
+	Theme:	327
+	Theme:	379
+	Theme:	407
+	Theme:	440
+	Theme:	479
+	Theme:	507
+	Theme:	534
+	LastScale:	166741.73222493811000
+	Dpy:	50
+	TOCWidth:	222
+	CoordPrecision:	2
+)
+
+(DocWin.42
+	Owner:	41
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1376
+	H:	633
+)
+
+(CSMgr.43
+	Client:	44
+)
+
+(CSClient.44
+	Client:	45
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.45
+	Doc:	41
+)
+
+(DocAct.46
+	Doc:	41
+)
+
+(InetProp.47
+	View:	41
+	CustomWidth:	-1
+	CustomHeight:	-1
+	ReadyToUse:	1
+	Pan:	1
+	ZoomIn:	1
+	ZoomOut:	1
+	Identify:	1
+	HotLink:	1
+	Back:	1
+	Forwards:	1
+	Home:	1
+	FullExtent:	1
+	Find:	1
+	Print:	1
+	Reload:	1
+	Stop:	1
+	Scalebar:	1
+	Coords:	1
+	TOCVisible:	1
+	CheckBoxVisible:	1
+	HTMLDir:	48
+)
+
+(FN.48
+	Path:	"$HOME/mypage"
+)
+
+(GList.49
+	Dpy:	50
+	FormatNumb:	55
+)
+
+(MapDpy.50
+	Left:	87.72279854944787
+	Bottom:	22.74145128056120
+	Top:	22.97752077323618
+	Right:	87.96003321802506
+	ReportUnits:	4
+	Units:	10
+	Scale:	51
+	FrameTop:	6.19791666666667
+	FrameRight:	11.86458333333333
+	PageDpy:	52
+	FitToPage:	1
+	MouseLoc:	54
+)
+
+(Numb.51
+	N:	26.25462780656703
+)
+
+(PageDpy.52
+	Top:	6.19791666666667
+	Right:	11.86458333333333
+	ReportUnits:	1
+	Units:	1
+	Scale:	53
+	ZoomRight:	11.86458333333333
+	ZoomTop:	6.19791666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.53
+	N:	96.00000000000000
+)
+
+(PointD.54
+	x:	87.96341818457269
+	y:	22.88785404156468
+)
+
+(Numb.55
+)
+
+(FTheme.56
+	Name:	"Gram panchayat headquater.shp"
+	Source:	57
+	Flags:	0x04
+	Legend:	66
+	Threshold:	85
+	View:	41
+	GSet:	86
+	LegEditScript:	"View.EditLegend"
+	TxPos:	87
+	Table:	88
+	SnapTolCursor:	1
+)
+
+(ShpSrc.57
+	Name:	58
+	FTab:	60
+)
+
+(SrcName.58
+	FileName:	59
+	Name:	"gram panchayat headquater.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.59
+	Path:	"e:/8th sem project/gis arambagh/gram panchayat headquater.shp"
+)
+
+(FTab.60
+	Name:	"gram panchayat headquater.dbf"
+	BTab:	61
+	Fields:	64
+	Fields:	62
+	SelBits:	65
+	FSrc:	57
+)
+
+(dBASE.61
+	Name:	"gram panchayat headquater.dbf"
+	Fields:	62
+	FileName:	63
+)
+
+(Field.62
+	Name:	"ID"
+	Btab:	61
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.63
+	Path:	"e:/8th sem project/gis arambagh/gram panchayat headquater.dbf"
+)
+
+(Field.64
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.65
+	NumBits:	11
+	Bits:	00000000 
+)
+
+(Legend.66
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	67
+	Class:	75
+	StdDevs:	1.00000000000000
+	NullSym:	76
+	NullValues:	83
+	StatValues:	84
+	Precision:	-3
+)
+
+(SymList.67
+	Child:	68
+)
+
+(BMkSym.68
+	Color:	69
+	BgColor:	70
+	Font:	71
+	Size:	16.00000000000000
+	Pattern:	226
+	Angle:	360.00000000000000
+)
+
+(TClr.69
+	Red:	0x9797
+	Green:	0x4747
+	Blue:	0x4949
+)
+
+(TClr.70
+	Name:	"Transparent"
+)
+
+(NFont.71
+	Family:	72
+	Name:	73
+	Style:	74
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.72
+	S:	"ESRI Cartography"
+)
+
+(AVStr.73
+	S:	"ESRI Cartography"
+)
+
+(AVStr.74
+	S:	"Normal"
+)
+
+(LClass.75
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.76
+	Color:	77
+	BgColor:	78
+	Font:	79
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.77
+	Name:	"Transparent"
+)
+
+(TClr.78
+	Name:	"Transparent"
+)
+
+(NFont.79
+	Family:	80
+	Name:	81
+	Style:	82
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.80
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.81
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.82
+	S:	"Normal"
+)
+
+(NameDict.83
+)
+
+(NameDict.84
+)
+
+(Thresh.85
+)
+
+(GSet.86
+)
+
+(TxPosPt.87
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.88
+	Name:	"Attributes of Gram panchayat headquater.shp"
+	CreationDate:	"Wednesday, May 11, 2011 4:17:24 PM"
+	GUIName:	"Table"
+	Win:	89
+	CSMgr:	90
+	DocExts:	92
+	VTab:	60
+)
+
+(DocWin.89
+	Owner:	88
+	X:	50
+	Y:	50
+	W:	365
+	H:	255
+)
+
+(CSMgr.90
+	Client:	91
+)
+
+(CSClient.91
+	Client:	56
+	ReqName:	"RespondTable"
+)
+
+(DocAct.92
+	Doc:	88
+)
+
+(FTheme.93
+	Name:	"Market centre.shp"
+	Source:	94
+	Flags:	0x04
+	Legend:	103
+	Threshold:	122
+	View:	41
+	GSet:	123
+	LegEditScript:	"View.EditLegend"
+	TxPos:	124
+	Table:	125
+	SnapTolCursor:	1
+)
+
+(ShpSrc.94
+	Name:	95
+	FTab:	97
+)
+
+(SrcName.95
+	FileName:	96
+	Name:	"market centre.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.96
+	Path:	"e:/8th sem project/gis arambagh/market centre.shp"
+)
+
+(FTab.97
+	Name:	"market centre.dbf"
+	BTab:	98
+	Fields:	101
+	Fields:	99
+	SelBits:	102
+	FSrc:	94
+)
+
+(dBASE.98
+	Name:	"market centre.dbf"
+	Fields:	99
+	FileName:	100
+)
+
+(Field.99
+	Name:	"ID"
+	Btab:	98
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.100
+	Path:	"e:/8th sem project/gis arambagh/market centre.dbf"
+)
+
+(Field.101
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.102
+	NumBits:	17
+	Bits:	00000000 
+)
+
+(Legend.103
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	104
+	Class:	112
+	StdDevs:	1.00000000000000
+	NullSym:	113
+	NullValues:	120
+	StatValues:	121
+	Precision:	-3
+)
+
+(SymList.104
+	Child:	105
+)
+
+(BMkSym.105
+	Color:	106
+	BgColor:	107
+	Font:	108
+	Size:	12.00000000000000
+	Pattern:	218
+	Angle:	360.00000000000000
+)
+
+(TClr.106
+	Red:	0xdc00
+	Green:	0xdb
+	Blue:	0xdb
+)
+
+(TClr.107
+	Name:	"Transparent"
+)
+
+(NFont.108
+	Family:	109
+	Name:	110
+	Style:	111
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.109
+	S:	"ESRI Cartography"
+)
+
+(AVStr.110
+	S:	"ESRI Cartography"
+)
+
+(AVStr.111
+	S:	"Normal"
+)
+
+(LClass.112
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.113
+	Color:	114
+	BgColor:	115
+	Font:	116
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.114
+	Name:	"Transparent"
+)
+
+(TClr.115
+	Name:	"Transparent"
+)
+
+(NFont.116
+	Family:	117
+	Name:	118
+	Style:	119
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.117
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.118
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.119
+	S:	"Normal"
+)
+
+(NameDict.120
+)
+
+(NameDict.121
+)
+
+(Thresh.122
+)
+
+(GSet.123
+)
+
+(TxPosPt.124
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.125
+	Name:	"Attributes of Market centre.shp"
+	CreationDate:	"Wednesday, May 11, 2011 4:10:21 PM"
+	GUIName:	"Table"
+	Win:	126
+	CSMgr:	127
+	DocExts:	129
+	VTab:	97
+)
+
+(DocWin.126
+	Owner:	125
+	X:	35
+	Y:	35
+	W:	365
+	H:	255
+)
+
+(CSMgr.127
+	Client:	128
+)
+
+(CSClient.128
+	Client:	93
+	ReqName:	"RespondTable"
+)
+
+(DocAct.129
+	Doc:	125
+)
+
+(FTheme.130
+	Name:	"Habitation.shp"
+	Source:	131
+	Flags:	0x07
+	Legend:	148
+	Threshold:	200
+	View:	41
+	GSet:	201
+	LegEditScript:	"View.EditLegend"
+	TxPos:	202
+	Table:	203
+	SnapTolCursor:	1
+)
+
+(ShpSrc.131
+	Name:	132
+	FTab:	134
+)
+
+(SrcName.132
+	FileName:	133
+	Name:	"habitation.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.133
+	Path:	"e:/8th sem project/gis arambagh/habitation.shp"
+)
+
+(FTab.134
+	Name:	"habitation.dbf"
+	BTab:	135
+	Fields:	146
+	Fields:	136
+	Fields:	137
+	Fields:	138
+	Fields:	139
+	Fields:	140
+	Fields:	141
+	Fields:	142
+	Fields:	143
+	Fields:	144
+	SelBits:	147
+	FSrc:	131
+)
+
+(dBASE.135
+	Name:	"habitation.dbf"
+	Fields:	136
+	Fields:	137
+	Fields:	138
+	Fields:	139
+	Fields:	140
+	Fields:	141
+	Fields:	142
+	Fields:	143
+	Fields:	144
+	FileName:	145
+)
+
+(Field.136
+	Name:	"ID"
+	Btab:	135
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	100
+)
+
+(Field.137
+	Name:	"Area_Code"
+	Btab:	135
+	Alias:	"Area Code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.138
+	Name:	"Name"
+	Btab:	135
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.139
+	Name:	"Population"
+	Btab:	135
+	Alias:	"Population"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	55
+)
+
+(Field.140
+	Name:	"Uc_c"
+	Btab:	135
+	Alias:	"Uc_c"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	83
+)
+
+(Field.141
+	Name:	"Road_code"
+	Btab:	135
+	Alias:	"Road_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.142
+	Name:	"Health"
+	Btab:	135
+	Alias:	"Health"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	36
+)
+
+(Field.143
+	Name:	"School"
+	Btab:	135
+	Alias:	"School"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	38
+)
+
+(Field.144
+	Name:	"Market"
+	Btab:	135
+	Alias:	"Market"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	38
+)
+
+(FN.145
+	Path:	"e:/8th sem project/gis arambagh/habitation.dbf"
+)
+
+(Field.146
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.147
+	NumBits:	242
+	Bits:	00000000 00000000 00000000 00000000 
+	Bits:	00000000 00000000 00000000 00000000 
+
+)
+
+(Legend.148
+	LegType:	0x02
+	ClassType:	0x03
+	FieldNames:	149
+	Symbols:	150
+	Class:	186
+	Class:	187
+	Class:	188
+	Class:	189
+	Class:	190
+	StdDevs:	1.00000000000000
+	NullSym:	191
+	NullValues:	198
+	StatValues:	199
+	Precision:	-3
+)
+
+(AVStr.149
+	S:	"Population"
+)
+
+(SymList.150
+	Child:	151
+	Child:	158
+	Child:	165
+	Child:	172
+	Child:	179
+)
+
+(BMkSym.151
+	Color:	152
+	BgColor:	153
+	Font:	154
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.152
+	Red:	0xfeff
+	Green:	0xe11d
+	Blue:	0xe11d
+)
+
+(TClr.153
+	Name:	"Transparent"
+)
+
+(NFont.154
+	Family:	155
+	Name:	156
+	Style:	157
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.155
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.156
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.157
+	S:	"Normal"
+)
+
+(BMkSym.158
+	Color:	159
+	BgColor:	160
+	Font:	161
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.159
+	Red:	0xfeff
+	Green:	0x6995
+	Blue:	0x6995
+)
+
+(TClr.160
+	Name:	"Transparent"
+)
+
+(NFont.161
+	Family:	162
+	Name:	163
+	Style:	164
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.162
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.163
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.164
+	S:	"Normal"
+)
+
+(BMkSym.165
+	Color:	166
+	BgColor:	167
+	Font:	168
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.166
+	Red:	0xc7ff
+	Green:	0xc7
+	Blue:	0xc7
+)
+
+(TClr.167
+	Name:	"Transparent"
+)
+
+(NFont.168
+	Family:	169
+	Name:	170
+	Style:	171
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.169
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.170
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.171
+	S:	"Normal"
+)
+
+(BMkSym.172
+	Color:	173
+	BgColor:	174
+	Font:	175
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.173
+	Red:	0x63ff
+	Green:	0x63
+	Blue:	0x63
+)
+
+(TClr.174
+	Name:	"Transparent"
+)
+
+(NFont.175
+	Family:	176
+	Name:	177
+	Style:	178
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.176
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.177
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.178
+	S:	"Normal"
+)
+
+(BMkSym.179
+	Color:	180
+	BgColor:	181
+	Font:	182
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.180
+	Name:	"Transparent"
+)
+
+(TClr.181
+	Name:	"Transparent"
+)
+
+(NFont.182
+	Family:	183
+	Name:	184
+	Style:	185
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.183
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.184
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.185
+	S:	"Normal"
+)
+
+(LClass.186
+	Label:	"0 - 249"
+	MaxNum:	249.00000000000000
+	Precision:	-3
+)
+
+(LClass.187
+	Label:	"250 - 499"
+	MinNum:	250.00000000000000
+	MaxNum:	499.00000000000000
+	Precision:	-3
+)
+
+(LClass.188
+	Label:	"500 - 999"
+	MinNum:	500.00000000000000
+	MaxNum:	999.00000000000000
+	Precision:	-3
+)
+
+(LClass.189
+	Label:	"1000 - 4000"
+	MinNum:	1000.00000000000000
+	MaxNum:	4000.00000000000000
+	Precision:	-3
+)
+
+(LClass.190
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BMkSym.191
+	Color:	192
+	BgColor:	193
+	Font:	194
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.192
+	Name:	"Transparent"
+)
+
+(TClr.193
+	Name:	"Transparent"
+)
+
+(NFont.194
+	Family:	195
+	Name:	196
+	Style:	197
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.195
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.196
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.197
+	S:	"Normal"
+)
+
+(NameDict.198
+)
+
+(NameDict.199
+)
+
+(Thresh.200
+)
+
+(GSet.201
+)
+
+(TxPosPt.202
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.203
+	Name:	"Attributes of Habitation.shp"
+	CreationDate:	"Monday, March 14, 2011 2:36:43 PM"
+	GUIName:	"Table"
+	Win:	204
+	CSMgr:	205
+	DocExts:	207
+	VTab:	134
+)
+
+(DocWin.204
+	Owner:	203
+	X:	304
+	Y:	42
+	W:	786
+	H:	551
+)
+
+(CSMgr.205
+	Client:	206
+)
+
+(CSClient.206
+	Client:	130
+	ReqName:	"RespondTable"
+)
+
+(DocAct.207
+	Doc:	203
+)
+
+(FTheme.208
+	Name:	"Health centre.shp"
+	Source:	209
+	Flags:	0x06
+	Legend:	218
+	Threshold:	237
+	View:	41
+	GSet:	238
+	LegEditScript:	"View.EditLegend"
+	TxPos:	239
+	SnapTolCursor:	1
+)
+
+(ShpSrc.209
+	Name:	210
+	FTab:	212
+)
+
+(SrcName.210
+	FileName:	211
+	Name:	"health centre.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.211
+	Path:	"e:/8th sem project/gis arambagh/health centre.shp"
+)
+
+(FTab.212
+	Name:	"health centre.dbf"
+	BTab:	213
+	Fields:	216
+	Fields:	214
+	SelBits:	217
+	FSrc:	209
+)
+
+(dBASE.213
+	Name:	"health centre.dbf"
+	Fields:	214
+	FileName:	215
+)
+
+(Field.214
+	Name:	"Id"
+	Btab:	213
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.215
+	Path:	"e:/8th sem project/gis arambagh/health centre.dbf"
+)
+
+(Field.216
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+)
+
+(Bitmap.217
+	NumBits:	103
+
+)
+
+(Legend.218
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	219
+	Class:	227
+	StdDevs:	1.00000000000000
+	NullSym:	228
+	NullValues:	235
+	StatValues:	236
+	Precision:	-3
+)
+
+(SymList.219
+	Child:	220
+)
+
+(BMkSym.220
+	Color:	221
+	BgColor:	222
+	Font:	223
+	Size:	10.00000000000000
+	Pattern:	209
+	Angle:	360.00000000000000
+)
+
+(TClr.221
+	Red:	0xffff
+)
+
+(TClr.222
+	Name:	"Transparent"
+)
+
+(NFont.223
+	Family:	224
+	Name:	225
+	Style:	226
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.224
+	S:	"ESRI Cartography"
+)
+
+(AVStr.225
+	S:	"ESRI Cartography"
+)
+
+(AVStr.226
+	S:	"Normal"
+)
+
+(LClass.227
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.228
+	Color:	229
+	BgColor:	230
+	Font:	231
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.229
+	Name:	"Transparent"
+)
+
+(TClr.230
+	Name:	"Transparent"
+)
+
+(NFont.231
+	Family:	232
+	Name:	233
+	Style:	234
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.232
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.233
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.234
+	S:	"Normal"
+)
+
+(NameDict.235
+)
+
+(NameDict.236
+)
+
+(Thresh.237
+)
+
+(GSet.238
+)
+
+(TxPosPt.239
+	HAlign:	4
+	VAlign:	3
+)
+
+(FTheme.240
+	Name:	"School and education centre.shp"
+	Source:	241
+	Flags:	0x06
+	Legend:	250
+	Threshold:	269
+	View:	41
+	GSet:	270
+	LegEditScript:	"View.EditLegend"
+	TxPos:	271
+	Table:	272
+	SnapTolCursor:	1
+)
+
+(ShpSrc.241
+	Name:	242
+	FTab:	244
+)
+
+(SrcName.242
+	FileName:	243
+	Name:	"school and education centre.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.243
+	Path:	"e:/8th sem project/gis arambagh/school and education centre.shp"
+)
+
+(FTab.244
+	Name:	"school and education centre.dbf"
+	BTab:	245
+	Fields:	248
+	Fields:	246
+	SelBits:	249
+	FSrc:	241
+)
+
+(dBASE.245
+	Name:	"school and education centre.dbf"
+	Fields:	246
+	FileName:	247
+)
+
+(Field.246
+	Name:	"Id"
+	Btab:	245
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.247
+	Path:	"e:/8th sem project/gis arambagh/school and education centre.dbf"
+)
+
+(Field.248
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.249
+	NumBits:	115
+
+)
+
+(Legend.250
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	251
+	Class:	259
+	StdDevs:	1.00000000000000
+	NullSym:	260
+	NullValues:	267
+	StatValues:	268
+	Precision:	-3
+)
+
+(SymList.251
+	Child:	252
+)
+
+(BMkSym.252
+	Color:	253
+	BgColor:	254
+	Font:	255
+	Size:	10.00000000000000
+	Pattern:	100
+	Angle:	360.00000000000000
+)
+
+(TClr.253
+	Red:	0x3082
+	Green:	0x3ceb
+	Blue:	0x8142
+)
+
+(TClr.254
+	Name:	"Transparent"
+)
+
+(NFont.255
+	Family:	256
+	Name:	257
+	Style:	258
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.256
+	S:	"ESRI Cartography"
+)
+
+(AVStr.257
+	S:	"ESRI Cartography"
+)
+
+(AVStr.258
+	S:	"Normal"
+)
+
+(LClass.259
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.260
+	Color:	261
+	BgColor:	262
+	Font:	263
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.261
+	Name:	"Transparent"
+)
+
+(TClr.262
+	Name:	"Transparent"
+)
+
+(NFont.263
+	Family:	264
+	Name:	265
+	Style:	266
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.264
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.265
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.266
+	S:	"Normal"
+)
+
+(NameDict.267
+)
+
+(NameDict.268
+)
+
+(Thresh.269
+)
+
+(GSet.270
+)
+
+(TxPosPt.271
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.272
+	Name:	"Attributes of School and education centre.shp"
+	CreationDate:	"Wednesday, April 13, 2011 12:37:22 PM"
+	GUIName:	"Table"
+	Win:	273
+	CSMgr:	274
+	DocExts:	276
+	VTab:	244
+)
+
+(DocWin.273
+	Owner:	272
+	X:	20
+	Y:	20
+	W:	365
+	H:	255
+)
+
+(CSMgr.274
+	Client:	275
+)
+
+(CSClient.275
+	Client:	240
+	ReqName:	"RespondTable"
+)
+
+(DocAct.276
+	Doc:	272
+)
+
+(FTheme.277
+	Name:	"T route.shp"
+	Source:	278
+	Flags:	0x04
+	Legend:	298
+	Threshold:	307
+	View:	41
+	GSet:	308
+	LegEditScript:	"View.EditLegend"
+	TxPos:	309
+	Table:	310
+	AttrRules:	315
+	AttrRules:	316
+	AttrRules:	317
+	AttrRules:	318
+	AttrRules:	319
+	AttrRules:	320
+	AttrRules:	321
+	AttrRules:	322
+	AttrRules:	323
+	AttrRules:	324
+	AttrRules:	325
+	AttrRules:	326
+	SnapTolCursor:	1
+)
+
+(ShpSrc.278
+	Name:	279
+	FTab:	281
+)
+
+(SrcName.279
+	FileName:	280
+	Name:	"t route.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.280
+	Path:	"e:/8th sem project/gis arambagh/t route.shp"
+)
+
+(FTab.281
+	Name:	"t route.dbf"
+	BTab:	282
+	Fields:	296
+	Fields:	283
+	Fields:	284
+	Fields:	285
+	Fields:	286
+	Fields:	287
+	Fields:	288
+	Fields:	289
+	Fields:	290
+	Fields:	291
+	Fields:	292
+	Fields:	293
+	Fields:	294
+	SelBits:	297
+	FSrc:	278
+)
+
+(dBASE.282
+	Name:	"t route.dbf"
+	Fields:	283
+	Fields:	284
+	Fields:	285
+	Fields:	286
+	Fields:	287
+	Fields:	288
+	Fields:	289
+	Fields:	290
+	Fields:	291
+	Fields:	292
+	Fields:	293
+	Fields:	294
+	FileName:	295
+)
+
+(Field.283
+	Name:	"Id"
+	Btab:	282
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.284
+	Name:	"Road_code"
+	Btab:	282
+	Alias:	"Road_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.285
+	Name:	"From"
+	Btab:	282
+	Alias:	"From"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.286
+	Name:	"To"
+	Btab:	282
+	Alias:	"To"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.287
+	Name:	"Width_m"
+	Btab:	282
+	Alias:	"Width_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.288
+	Name:	"Length_km"
+	Btab:	282
+	Alias:	"Length_km"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	58
+)
+
+(Field.289
+	Name:	"Length_m"
+	Btab:	282
+	Alias:	"Length_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.290
+	Name:	"Bt_l"
+	Btab:	282
+	Alias:	"Bt_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.291
+	Name:	"Bt_cond"
+	Btab:	282
+	Alias:	"Bt_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	45
+)
+
+(Field.292
+	Name:	"Track_l"
+	Btab:	282
+	Alias:	"Track_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.293
+	Name:	"Track_cond"
+	Btab:	282
+	Alias:	"Track_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.294
+	Name:	"Total_pop"
+	Btab:	282
+	Alias:	"Total_pop"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.295
+	Path:	"e:/8th sem project/gis arambagh/t route.dbf"
+)
+
+(Field.296
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.297
+	NumBits:	14
+	Bits:	00000000 
+)
+
+(Legend.298
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	299
+	Class:	302
+	StdDevs:	1.00000000000000
+	NullSym:	303
+	NullValues:	305
+	StatValues:	306
+	Precision:	-3
+)
+
+(SymList.299
+	Child:	300
+)
+
+(BLnSym.300
+	Color:	301
+	Width:	2.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.301
+	Red:	0x77d5
+	Green:	0x81
+	Blue:	0x8200
+)
+
+(LClass.302
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.303
+	Color:	304
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.304
+	Name:	"Transparent"
+)
+
+(NameDict.305
+)
+
+(NameDict.306
+)
+
+(Thresh.307
+)
+
+(GSet.308
+)
+
+(TxPosArc.309
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.310
+	Name:	"Attributes of T route.shp"
+	CreationDate:	"Wednesday, April 13, 2011 10:03:58 AM"
+	GUIName:	"Table"
+	Win:	311
+	CSMgr:	312
+	DocExts:	314
+	VTab:	281
+)
+
+(DocWin.311
+	Owner:	310
+	X:	392
+	Y:	107
+	W:	878
+	H:	439
+)
+
+(CSMgr.312
+	Client:	313
+)
+
+(CSClient.313
+	Client:	277
+	ReqName:	"RespondTable"
+)
+
+(DocAct.314
+	Doc:	310
+)
+
+(AttrSingle.315
+	FTab:	281
+	Field:	283
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.316
+	FTab:	281
+	Field:	284
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.317
+	FTab:	281
+	Field:	285
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.318
+	FTab:	281
+	Field:	286
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.319
+	FTab:	281
+	Field:	287
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.320
+	FTab:	281
+	Field:	288
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.321
+	FTab:	281
+	Field:	289
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.322
+	FTab:	281
+	Field:	290
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.323
+	FTab:	281
+	Field:	291
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.324
+	FTab:	281
+	Field:	292
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.325
+	FTab:	281
+	Field:	293
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.326
+	FTab:	281
+	Field:	294
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.327
+	Name:	"L route.shp"
+	Source:	328
+	Flags:	0x04
+	Legend:	349
+	Threshold:	358
+	View:	41
+	GSet:	359
+	LegEditScript:	"View.EditLegend"
+	TxPos:	360
+	Table:	361
+	AttrRules:	366
+	AttrRules:	367
+	AttrRules:	368
+	AttrRules:	369
+	AttrRules:	370
+	AttrRules:	371
+	AttrRules:	372
+	AttrRules:	373
+	AttrRules:	374
+	AttrRules:	375
+	AttrRules:	376
+	AttrRules:	377
+	AttrRules:	378
+	SnapTolCursor:	1
+)
+
+(ShpSrc.328
+	Name:	329
+	FTab:	331
+)
+
+(SrcName.329
+	FileName:	330
+	Name:	"l route.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.330
+	Path:	"e:/8th sem project/gis arambagh/l route.shp"
+)
+
+(FTab.331
+	Name:	"l route.dbf"
+	BTab:	332
+	Fields:	336
+	Fields:	347
+	Fields:	333
+	Fields:	334
+	Fields:	335
+	Fields:	337
+	Fields:	338
+	Fields:	339
+	Fields:	340
+	Fields:	341
+	Fields:	342
+	Fields:	343
+	Fields:	344
+	Fields:	345
+	SelBits:	348
+	FSrc:	328
+)
+
+(dBASE.332
+	Name:	"l route.dbf"
+	Fields:	333
+	Fields:	334
+	Fields:	335
+	Fields:	336
+	Fields:	337
+	Fields:	338
+	Fields:	339
+	Fields:	340
+	Fields:	341
+	Fields:	342
+	Fields:	343
+	Fields:	344
+	Fields:	345
+	FileName:	346
+)
+
+(Field.333
+	Name:	"Id"
+	Btab:	332
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.334
+	Name:	"Road_code"
+	Btab:	332
+	Alias:	"Road_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.335
+	Name:	"From"
+	Btab:	332
+	Alias:	"From"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.336
+	Name:	"To"
+	Btab:	332
+	Alias:	"To"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.337
+	Name:	"Width_m"
+	Btab:	332
+	Alias:	"Width_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.338
+	Name:	"Length_km"
+	Btab:	332
+	Alias:	"Length_km"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	58
+)
+
+(Field.339
+	Name:	"Length_m"
+	Btab:	332
+	Alias:	"Length_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.340
+	Name:	"Bt_l"
+	Btab:	332
+	Alias:	"Bt_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.341
+	Name:	"Bt_cond"
+	Btab:	332
+	Alias:	"Bt_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	45
+)
+
+(Field.342
+	Name:	"Track_l"
+	Btab:	332
+	Alias:	"Track_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	41
+)
+
+(Field.343
+	Name:	"Track_cond"
+	Btab:	332
+	Alias:	"Track_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.344
+	Name:	"Total_pop"
+	Btab:	332
+	Alias:	"Total_pop"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.345
+	Name:	"Con_road"
+	Btab:	332
+	Alias:	"Con_road"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	102
+)
+
+(FN.346
+	Path:	"e:/8th sem project/gis arambagh/l route.dbf"
+)
+
+(Field.347
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.348
+	NumBits:	48
+	Bits:	00000000 00000000 
+)
+
+(Legend.349
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	350
+	Class:	353
+	StdDevs:	1.00000000000000
+	NullSym:	354
+	NullValues:	356
+	StatValues:	357
+	Precision:	-3
+)
+
+(SymList.350
+	Child:	351
+)
+
+(BLnSym.351
+	Color:	352
+	Width:	1.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.352
+	Red:	0x189
+	Green:	0x8200
+	Blue:	0x81
+)
+
+(LClass.353
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.354
+	Color:	355
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.355
+	Name:	"Transparent"
+)
+
+(NameDict.356
+)
+
+(NameDict.357
+)
+
+(Thresh.358
+)
+
+(GSet.359
+)
+
+(TxPosArc.360
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.361
+	Name:	"Attributes of L route.shp"
+	CreationDate:	"Wednesday, April 13, 2011 11:19:09 AM"
+	GUIName:	"Table"
+	Win:	362
+	CSMgr:	363
+	DocExts:	365
+	VTab:	331
+)
+
+(DocWin.362
+	Owner:	361
+	X:	251
+	Y:	24
+	W:	1070
+	H:	587
+)
+
+(CSMgr.363
+	Client:	364
+)
+
+(CSClient.364
+	Client:	327
+	ReqName:	"RespondTable"
+)
+
+(DocAct.365
+	Doc:	361
+)
+
+(AttrSingle.366
+	FTab:	331
+	Field:	333
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.367
+	FTab:	331
+	Field:	334
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.368
+	FTab:	331
+	Field:	335
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.369
+	FTab:	331
+	Field:	336
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.370
+	FTab:	331
+	Field:	337
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.371
+	FTab:	331
+	Field:	338
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.372
+	FTab:	331
+	Field:	339
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.373
+	FTab:	331
+	Field:	340
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.374
+	FTab:	331
+	Field:	341
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.375
+	FTab:	331
+	Field:	342
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.376
+	FTab:	331
+	Field:	343
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.377
+	FTab:	331
+	Field:	344
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.378
+	FTab:	331
+	Field:	345
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.379
+	Name:	"T route buff.shp"
+	Source:	380
+	Flags:	0x04
+	Legend:	389
+	Threshold:	403
+	View:	41
+	GSet:	404
+	LegEditScript:	"View.EditLegend"
+	TxPos:	405
+	AttrRules:	406
+	SnapTolCursor:	1
+)
+
+(ShpSrc.380
+	Name:	381
+	FTab:	383
+)
+
+(SrcName.381
+	FileName:	382
+	Name:	"t route buff.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.382
+	Path:	"e:/8th sem project/gis arambagh/t route buff.shp"
+)
+
+(FTab.383
+	Name:	"t route buff.dbf"
+	BTab:	384
+	Fields:	387
+	Fields:	385
+	SelBits:	388
+	FSrc:	380
+)
+
+(dBASE.384
+	Name:	"t route buff.dbf"
+	Fields:	385
+	FileName:	386
+)
+
+(Field.385
+	Name:	"ID"
+	Btab:	384
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.386
+	Path:	"e:/8th sem project/gis arambagh/t route buff.dbf"
+)
+
+(Field.387
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.388
+	NumBits:	14
+	Bits:	00000000 
+)
+
+(Legend.389
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	390
+	Class:	396
+	StdDevs:	1.00000000000000
+	NullSym:	397
+	NullValues:	401
+	StatValues:	402
+	Precision:	-3
+)
+
+(SymList.390
+	Child:	391
+)
+
+(BShSym.391
+	Color:	392
+	Outline:	1
+	OutlineColor:	393
+	OutlineWidth:	0.10000000000000
+	BgColor:	394
+	Style:	0x03
+	Stipple:	395
+)
+
+(TClr.392
+	Red:	0xae6d
+	Green:	0xa559
+	Blue:	0xff00
+)
+
+(TClr.393
+)
+
+(TClr.394
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.395
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(LClass.396
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.397
+	Color:	398
+	Outline:	1
+	OutlineColor:	399
+	OutlineWidth:	0.10000000000000
+	BgColor:	400
+)
+
+(TClr.398
+	Name:	"Transparent"
+)
+
+(TClr.399
+	Name:	"Transparent"
+)
+
+(TClr.400
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.401
+)
+
+(NameDict.402
+)
+
+(Thresh.403
+)
+
+(GSet.404
+)
+
+(TxPosPly.405
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.406
+	FTab:	383
+	Field:	385
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.407
+	Name:	"L route buff.shp"
+	Source:	408
+	Flags:	0x04
+	Legend:	417
+	Threshold:	431
+	View:	41
+	GSet:	432
+	LegEditScript:	"View.EditLegend"
+	TxPos:	433
+	Table:	434
+	AttrRules:	439
+	SnapTolCursor:	1
+)
+
+(ShpSrc.408
+	Name:	409
+	FTab:	411
+)
+
+(SrcName.409
+	FileName:	410
+	Name:	"l route buff.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.410
+	Path:	"e:/8th sem project/gis arambagh/l route buff.shp"
+)
+
+(FTab.411
+	Name:	"l route buff.dbf"
+	BTab:	412
+	Fields:	415
+	Fields:	413
+	SelBits:	416
+	FSrc:	408
+)
+
+(dBASE.412
+	Name:	"l route buff.dbf"
+	Fields:	413
+	FileName:	414
+)
+
+(Field.413
+	Name:	"ID"
+	Btab:	412
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.414
+	Path:	"e:/8th sem project/gis arambagh/l route buff.dbf"
+)
+
+(Field.415
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.416
+	NumBits:	48
+	Bits:	00000000 00000000 
+)
+
+(Legend.417
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	418
+	Class:	424
+	StdDevs:	1.00000000000000
+	NullSym:	425
+	NullValues:	429
+	StatValues:	430
+	Precision:	-3
+)
+
+(SymList.418
+	Child:	419
+)
+
+(BShSym.419
+	Color:	420
+	Outline:	1
+	OutlineColor:	421
+	OutlineWidth:	0.10000000000000
+	BgColor:	422
+	Style:	0x03
+	Stipple:	423
+)
+
+(TClr.420
+	Red:	0xa610
+	Green:	0xff00
+	Blue:	0xa559
+)
+
+(TClr.421
+)
+
+(TClr.422
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.423
+	Columns:	8
+	Rows:	8
+	Bits:	ffddff77 ffddff77 
+)
+
+(LClass.424
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.425
+	Color:	426
+	Outline:	1
+	OutlineColor:	427
+	OutlineWidth:	0.10000000000000
+	BgColor:	428
+)
+
+(TClr.426
+	Name:	"Transparent"
+)
+
+(TClr.427
+	Name:	"Transparent"
+)
+
+(TClr.428
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.429
+)
+
+(NameDict.430
+)
+
+(Thresh.431
+)
+
+(GSet.432
+)
+
+(TxPosPly.433
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.434
+	Name:	"Attributes of L route buff.shp"
+	CreationDate:	"Wednesday, May 11, 2011 4:48:57 PM"
+	GUIName:	"Table"
+	Win:	435
+	CSMgr:	436
+	DocExts:	438
+	VTab:	411
+)
+
+(DocWin.435
+	Owner:	434
+	X:	65
+	Y:	65
+	W:	365
+	H:	255
+)
+
+(CSMgr.436
+	Client:	437
+)
+
+(CSClient.437
+	Client:	407
+	ReqName:	"RespondTable"
+)
+
+(DocAct.438
+	Doc:	434
+)
+
+(AttrSingle.439
+	FTab:	411
+	Field:	413
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.440
+	Name:	"Boundry area.shp"
+	Source:	441
+	Flags:	0x04
+	Legend:	453
+	Threshold:	467
+	View:	41
+	GSet:	468
+	LegEditScript:	"View.EditLegend"
+	TxPos:	469
+	Table:	470
+	AttrRules:	475
+	AttrRules:	476
+	AttrRules:	477
+	AttrRules:	478
+	SnapTolCursor:	1
+)
+
+(ShpSrc.441
+	Name:	442
+	FTab:	444
+)
+
+(SrcName.442
+	FileName:	443
+	Name:	"boundry area.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.443
+	Path:	"e:/8th sem project/gis arambagh/boundry area.shp"
+)
+
+(FTab.444
+	Name:	"boundry area.dbf"
+	BTab:	445
+	Fields:	451
+	Fields:	446
+	Fields:	447
+	Fields:	448
+	Fields:	449
+	SelBits:	452
+	FSrc:	441
+)
+
+(dBASE.445
+	Name:	"boundry area.dbf"
+	Fields:	446
+	Fields:	447
+	Fields:	448
+	Fields:	449
+	FileName:	450
+)
+
+(Field.446
+	Name:	"Id"
+	Btab:	445
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.447
+	Name:	"Area"
+	Btab:	445
+	Alias:	"Area_Meters"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.448
+	Name:	"Perimeter"
+	Btab:	445
+	Alias:	"Perimeter_Meters"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.449
+	Name:	"Hectares"
+	Btab:	445
+	Alias:	"Hectares"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	101
+)
+
+(FN.450
+	Path:	"e:/8th sem project/gis arambagh/boundry area.dbf"
+)
+
+(Field.451
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.452
+	NumBits:	1
+	NumBitsSet:	1
+	Bits:	00000001 
+)
+
+(Legend.453
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	454
+	Class:	460
+	StdDevs:	1.00000000000000
+	NullSym:	461
+	NullValues:	465
+	StatValues:	466
+	Precision:	-3
+)
+
+(SymList.454
+	Child:	455
+)
+
+(BShSym.455
+	Color:	456
+	Outline:	1
+	OutlineColor:	457
+	OutlineWidth:	0.10000000000000
+	BgColor:	458
+	Style:	0x03
+	Stipple:	459
+)
+
+(TClr.456
+	Red:	0x299
+	Green:	0xdc00
+	Blue:	0xdb
+)
+
+(TClr.457
+)
+
+(TClr.458
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.459
+	Columns:	8
+	Rows:	8
+	Bits:	10101010 10101010 
+)
+
+(LClass.460
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.461
+	Color:	462
+	Outline:	1
+	OutlineColor:	463
+	OutlineWidth:	0.10000000000000
+	BgColor:	464
+)
+
+(TClr.462
+	Name:	"Transparent"
+)
+
+(TClr.463
+	Name:	"Transparent"
+)
+
+(TClr.464
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.465
+)
+
+(NameDict.466
+)
+
+(Thresh.467
+)
+
+(GSet.468
+)
+
+(TxPosPly.469
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.470
+	Name:	"Attributes of Boundry area.shp"
+	CreationDate:	"Wednesday, May 11, 2011 3:46:56 PM"
+	GUIName:	"Table"
+	Win:	471
+	CSMgr:	472
+	DocExts:	474
+	VTab:	444
+)
+
+(DocWin.471
+	Owner:	470
+	X:	255
+	Y:	130
+	W:	648
+	H:	348
+)
+
+(CSMgr.472
+	Client:	473
+)
+
+(CSClient.473
+	Client:	440
+	ReqName:	"RespondTable"
+)
+
+(DocAct.474
+	Doc:	470
+)
+
+(AttrSingle.475
+	FTab:	444
+	Field:	446
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.476
+	FTab:	444
+	Field:	447
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.477
+	FTab:	444
+	Field:	448
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.478
+	FTab:	444
+	Field:	449
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.479
+	Name:	"Boundry.shp"
+	Source:	480
+	Flags:	0x06
+	Legend:	489
+	Threshold:	498
+	View:	41
+	GSet:	499
+	LegEditScript:	"View.EditLegend"
+	TxPos:	500
+	Table:	501
+	AttrRules:	506
+	SnapTolCursor:	1
+)
+
+(ShpSrc.480
+	Name:	481
+	FTab:	483
+)
+
+(SrcName.481
+	FileName:	482
+	Name:	"boundry.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.482
+	Path:	"e:/8th sem project/gis arambagh/boundry.shp"
+)
+
+(FTab.483
+	Name:	"boundry.dbf"
+	BTab:	484
+	Fields:	487
+	Fields:	485
+	SelBits:	488
+	FSrc:	480
+)
+
+(dBASE.484
+	Name:	"boundry.dbf"
+	Fields:	485
+	FileName:	486
+)
+
+(Field.485
+	Name:	"Id"
+	Btab:	484
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(FN.486
+	Path:	"e:/8th sem project/gis arambagh/boundry.dbf"
+)
+
+(Field.487
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.488
+	NumBits:	1
+	Bits:	00000000 
+)
+
+(Legend.489
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	490
+	Class:	493
+	StdDevs:	1.00000000000000
+	NullSym:	494
+	NullValues:	496
+	StatValues:	497
+	Precision:	-3
+)
+
+(SymList.490
+	Child:	491
+)
+
+(BLnSym.491
+	Color:	492
+	Width:	1.00000000000000
+	Pattern:	3.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	1.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.492
+	Red:	0xe3
+	Green:	0x9cbc
+	Blue:	0x9a3e
+)
+
+(LClass.493
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.494
+	Color:	495
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.495
+	Name:	"Transparent"
+)
+
+(NameDict.496
+)
+
+(NameDict.497
+)
+
+(Thresh.498
+)
+
+(GSet.499
+)
+
+(TxPosArc.500
+	HAlign:	3
+	VAlign:	1
+)
+
+(Table.501
+	Name:	"Attributes of Boundry.shp"
+	CreationDate:	"Monday, March 14, 2011 12:15:05 PM"
+	GUIName:	"Table"
+	Win:	502
+	CSMgr:	503
+	DocExts:	505
+	VTab:	483
+)
+
+(DocWin.502
+	Owner:	501
+	X:	20
+	Y:	20
+	W:	365
+	H:	255
+)
+
+(CSMgr.503
+	Client:	504
+)
+
+(CSClient.504
+	Client:	479
+	ReqName:	"RespondTable"
+)
+
+(DocAct.505
+	Doc:	501
+)
+
+(AttrSingle.506
+	FTab:	483
+	Field:	485
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.507
+	Name:	"Water body.shp"
+	Source:	508
+	Flags:	0x04
+	Legend:	517
+	Threshold:	530
+	View:	41
+	GSet:	531
+	LegEditScript:	"View.EditLegend"
+	TxPos:	532
+	AttrRules:	533
+	SnapTolCursor:	1
+)
+
+(ShpSrc.508
+	Name:	509
+	FTab:	511
+)
+
+(SrcName.509
+	FileName:	510
+	Name:	"water body.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.510
+	Path:	"e:/8th sem project/gis arambagh/water body.shp"
+)
+
+(FTab.511
+	Name:	"water body.dbf"
+	BTab:	512
+	Fields:	515
+	Fields:	513
+	SelBits:	516
+	FSrc:	508
+)
+
+(dBASE.512
+	Name:	"water body.dbf"
+	Fields:	513
+	FileName:	514
+)
+
+(Field.513
+	Name:	"ID"
+	Btab:	512
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.514
+	Path:	"e:/8th sem project/gis arambagh/water body.dbf"
+)
+
+(Field.515
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.516
+	NumBits:	2
+	Bits:	00000000 
+)
+
+(Legend.517
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	518
+	Class:	523
+	StdDevs:	1.00000000000000
+	NullSym:	524
+	NullValues:	528
+	StatValues:	529
+	Precision:	-3
+)
+
+(SymList.518
+	Child:	519
+)
+
+(BShSym.519
+	Color:	520
+	OutlineColor:	521
+	OutlineWidth:	0.10000000000000
+	BgColor:	522
+)
+
+(TClr.520
+	Red:	0xfe
+	Green:	0x820c
+	Blue:	0xff00
+)
+
+(TClr.521
+)
+
+(TClr.522
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.523
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.524
+	Color:	525
+	Outline:	1
+	OutlineColor:	526
+	OutlineWidth:	0.10000000000000
+	BgColor:	527
+)
+
+(TClr.525
+	Name:	"Transparent"
+)
+
+(TClr.526
+	Name:	"Transparent"
+)
+
+(TClr.527
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.528
+)
+
+(NameDict.529
+)
+
+(Thresh.530
+)
+
+(GSet.531
+)
+
+(TxPosPly.532
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.533
+	FTab:	511
+	Field:	513
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(ITheme.534
+	Name:	"Arambhagcorrected.img"
+	Source:	535
+	Flags:	0x04
+	Legend:	544
+	Threshold:	548
+	View:	41
+	GSet:	549
+	LegEditScript:	"View.EditLegend"
+)
+
+(ImgDll.535
+	Name:	536
+	ClipBox:	538
+	MapBox:	539
+	SetMapBox:	540
+	NBands:	3
+	Width:	6420
+	Height:	5313
+	BandStats:	541
+	BandStats:	542
+	BandStats:	543
+)
+
+(SrcName.536
+	FileName:	537
+	Name:	"arambhagcorrected.img"
+	OwnerClass:	"ImgDLL"
+)
+
+(FN.537
+	Path:	"e:/8th sem project/gis arambagh/corrected/arambhagcorrected.img"
+)
+
+(RectD.538
+	Left:	87.71443509704801
+	Top:	22.98216835262398
+	Right:	88.01508935355044
+	Bottom:	22.73335588147174
+)
+
+(RectD.539
+	Left:	87.71443509704801
+	Top:	22.98216835262398
+	Right:	88.01508935355044
+	Bottom:	22.73335588147174
+)
+
+(RectD.540
+	Left:	87.71443509704801
+	Top:	22.98216835262398
+	Right:	88.01508935355044
+	Bottom:	22.73335588147174
+)
+
+(BStat.541
+	Max:	170.00000000000000
+	Mean:	119.09814453125000
+	StDv:	46.01550024431617
+	Valid:	1
+)
+
+(BStat.542
+	Max:	168.00000000000000
+	Mean:	118.26245117187500
+	StDv:	45.43390284215239
+	Valid:	1
+)
+
+(BStat.543
+	Max:	170.00000000000000
+	Mean:	117.89672851562500
+	StDv:	42.98129563424725
+	Valid:	1
+)
+
+(MBILeg.544
+	GreenBand:	1
+	BlueBand:	2
+	RedLUT:	545
+	GreenLUT:	546
+	BlueLUT:	547
+)
+
+(ILUTIdn.545
+)
+
+(ILUTIdn.546
+)
+
+(ILUTIdn.547
+)
+
+(Thresh.548
+)
+
+(GSet.549
+)
+
+(GSet.550
+)
+
+(TxPosPt.551
+	HAlign:	4
+	VAlign:	3
+)
+
+(DocAct.552
+	Doc:	7
+)
+
+(Table.553
+	Name:	"Attributes of L route.shp"
+	CreationDate:	"Monday, March 14, 2011 11:08:37 AM"
+	GUIName:	"Table"
+	Win:	554
+	CSMgr:	555
+	DocExts:	556
+	VTab:	557
+)
+
+(DocWin.554
+	Owner:	553
+	X:	190
+	Y:	19
+	W:	1045
+	H:	569
+)
+
+(CSMgr.555
+)
+
+(DocAct.556
+	Doc:	553
+)
+
+(FTab.557
+	Name:	"l route.dbf"
+	BTab:	558
+	Fields:	573
+	Fields:	559
+	Fields:	560
+	Fields:	561
+	Fields:	562
+	Fields:	563
+	Fields:	564
+	Fields:	565
+	Fields:	566
+	Fields:	567
+	Fields:	568
+	Fields:	569
+	Fields:	570
+	Fields:	571
+	SelBits:	574
+	FSrc:	575
+)
+
+(dBASE.558
+	Name:	"l route.dbf"
+	Fields:	559
+	Fields:	560
+	Fields:	561
+	Fields:	562
+	Fields:	563
+	Fields:	564
+	Fields:	565
+	Fields:	566
+	Fields:	567
+	Fields:	568
+	Fields:	569
+	Fields:	570
+	Fields:	571
+	FileName:	572
+)
+
+(Field.559
+	Name:	"ID"
+	Btab:	558
+	Alias:	"ID"
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.560
+	Name:	"Road_code"
+	Btab:	558
+	Alias:	"Road_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.561
+	Name:	"From"
+	Btab:	558
+	Alias:	"From"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.562
+	Name:	"To"
+	Btab:	558
+	Alias:	"To"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.563
+	Name:	"Width_m"
+	Btab:	558
+	Alias:	"Width_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.564
+	Name:	"Length_km"
+	Btab:	558
+	Alias:	"Length_km"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.565
+	Name:	"Length_m"
+	Btab:	558
+	Alias:	"Length_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.566
+	Name:	"Bt_l"
+	Btab:	558
+	Alias:	"Bt_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.567
+	Name:	"Bt_cond"
+	Btab:	558
+	Alias:	"Bt_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.568
+	Name:	"Track_l"
+	Btab:	558
+	Alias:	"Track_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.569
+	Name:	"Track_cond"
+	Btab:	558
+	Alias:	"Track_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.570
+	Name:	"Total_pop"
+	Btab:	558
+	Alias:	"Total_pop"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.571
+	Name:	"Con_road"
+	Btab:	558
+	Alias:	"Con_road"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.572
+	Path:	"e:/8th sem project/gis arambagh/l route.dbf"
+)
+
+(Field.573
+	Name:	"Shape"
+	Alias:	"Shape"
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.574
+	NumBits:	48
+
+)
+
+(ShpSrc.575
+	Name:	576
+	FTab:	557
+)
+
+(SrcName.576
+	FileName:	577
+	Name:	"l route.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.577
+	Path:	"e:/8th sem project/gis arambagh/l route.shp"
+)
+
+(Table.578
+	Name:	"Attributes of T route.shp"
+	CreationDate:	"Monday, March 14, 2011 9:44:14 AM"
+	GUIName:	"Table"
+	Win:	579
+	CSMgr:	580
+	DocExts:	581
+	VTab:	582
+)
+
+(DocWin.579
+	Owner:	578
+	X:	54
+	Y:	86
+	W:	727
+	H:	495
+)
+
+(CSMgr.580
+)
+
+(DocAct.581
+	Doc:	578
+)
+
+(FTab.582
+	Name:	"t route.dbf"
+	BTab:	583
+	Fields:	597
+	Fields:	584
+	Fields:	585
+	Fields:	586
+	Fields:	587
+	Fields:	588
+	Fields:	589
+	Fields:	590
+	Fields:	591
+	Fields:	592
+	Fields:	593
+	Fields:	594
+	Fields:	595
+	SelBits:	598
+	FSrc:	599
+)
+
+(dBASE.583
+	Name:	"t route.dbf"
+	Fields:	584
+	Fields:	585
+	Fields:	586
+	Fields:	587
+	Fields:	588
+	Fields:	589
+	Fields:	590
+	Fields:	591
+	Fields:	592
+	Fields:	593
+	Fields:	594
+	Fields:	595
+	FileName:	596
+)
+
+(Field.584
+	Name:	"ID"
+	Btab:	583
+	Alias:	"ID"
+	Type:	9
+	Order:	-1
+	Pixels:	30
+)
+
+(Field.585
+	Name:	"Road_Code"
+	Btab:	583
+	Alias:	"Road Code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.586
+	Name:	"From"
+	Btab:	583
+	Alias:	"From"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	168
+)
+
+(Field.587
+	Name:	"To"
+	Btab:	583
+	Alias:	"To"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	166
+)
+
+(Field.588
+	Name:	"Width_m"
+	Btab:	583
+	Alias:	"Width_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.589
+	Name:	"Length_km"
+	Btab:	583
+	Alias:	"Length_km"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.590
+	Name:	"Length_m"
+	Btab:	583
+	Alias:	"Length_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.591
+	Name:	"Bt_l"
+	Btab:	583
+	Alias:	"Bt_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.592
+	Name:	"Bt_cond"
+	Btab:	583
+	Alias:	"Bt_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.593
+	Name:	"Track_l"
+	Btab:	583
+	Alias:	"Track_l"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.594
+	Name:	"Track_cond"
+	Btab:	583
+	Alias:	"Track_cond"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.595
+	Name:	"Total_pop"
+	Btab:	583
+	Alias:	"Total_pop"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.596
+	Path:	"e:/8th sem project/gis arambagh/t route.dbf"
+)
+
+(Field.597
+	Name:	"Shape"
+	Alias:	"Shape"
+	Type:	18
+	Order:	-1
+	Pixels:	59
+)
+
+(Bitmap.598
+	NumBits:	14
+	NumBitsSet:	11
+	Bits:	000007ff 
+)
+
+(ShpSrc.599
+	Name:	600
+	FTab:	582
+)
+
+(SrcName.600
+	FileName:	601
+	Name:	"t route.shp"
+	SubName:	"Arc"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.601
+	Path:	"e:/8th sem project/gis arambagh/t route.shp"
+)
+
+(LButn.602
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.603
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.604
+	HelpTopic:	"Print_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Doc.Action"
+)
+
+(FN.605
+	Path:	"$AVEXT/xtools.avx"
+)
+
+(FN.606
+	Path:	"$AVEXT/tiff.avx"
+)
+
+(FN.607
+	Path:	"$AVEXT/inetmap.avx"
+)
+
+(FN.608
+	Path:	"$AVEXT/imagine.avx"
+)
+
+(NameDict.609
+)
+
+(NameDict.610
+	Obj:	611
+	Obj:	612
+	Obj:	613
+)
+
+(AVDict.611
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.612
+	InternalName:	"_Thor_"
+)
+
+(AVDict.613
+	InternalName:	"Internet Map Server"
+	Key:	614
+	Key:	615
+	Key:	616
+	Value:	617
+	Value:	618
+	Value:	619
+)
+
+(AVStr.614
+	S:	"Loaded"
+)
+
+(AVStr.615
+	S:	"Version"
+)
+
+(AVStr.616
+	S:	"OutFiles"
+)
+
+(Bool.617
+	Truth:	1
+)
+
+(Numb.618
+	N:	0.99000000000000
+)
+
+(List.619
+)
+
+(DocGUI.620
+	Name:	"View"
+	Type:	"View"
+	Modified:	1
+	Visible:	1
+	MenuBar:	621
+	ButnBar:	770
+	Popups:	814
+	ToolBar:	836
+	NewScript:	"View.New"
+	OpenScript:	"Doc.Open"
+	ActionScript:	"Doc.Action"
+	NewUpdateScript:	"Doc.NewUpdate"
+	OpenUpdateScript:	"Doc.OpenUpdate"
+	ActionUpdateScript:	"Doc.ActionUpdate"
+	Title:	"Views"
+	Icon:	913
+)
+
+(MenuBar.621
+	Child:	622
+	Child:	643
+	Child:	663
+	Child:	686
+	Child:	709
+	Child:	725
+	Child:	755
+	Child:	765
+)
+
+(PMenu.622
+	InternalName:	"File"
+	Child:	623
+	Child:	624
+	Child:	625
+	Child:	626
+	Child:	627
+	Child:	628
+	Child:	629
+	Child:	630
+	Child:	631
+	Child:	632
+	Child:	633
+	Child:	634
+	Child:	635
+	Child:	636
+	Child:	637
+	Child:	638
+	Child:	639
+	Child:	640
+	Child:	641
+	Child:	642
+	Label:	"&File"
+)
+
+(Choice.623
+	Help:	"Closes the active component"
+	HelpTopic:	"Close"
+	Label:	"&Close"
+	Click:	"Project.CloseDoc"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.624
+	Help:	"Closes all components"
+	HelpTopic:	"Close_All"
+	Label:	"Close &All"
+	Click:	"Project.CloseAll"
+	Shortcut:	"Keys.None"
+)
+
+(Space.625
+)
+
+(Choice.626
+	Help:	"Allows you to specify the current working directory"
+	HelpTopic:	"Set_Working_Directory"
+	Label:	"Set &Working Directory..."
+	Click:	"Project.SetProjectWorkDir"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.627
+	Help:	"Saves the current project"
+	HelpTopic:	"Save_Project"
+	Label:	"&Save Project"
+	Click:	"Project.Save"
+	Shortcut:	"Keys.Ctrl+S"
+)
+
+(Choice.628
+	Help:	"Saves the current project with a new name"
+	HelpTopic:	"Save_Project_As"
+	Label:	"Save Project As..."
+	Click:	"Project.SaveAs"
+	Shortcut:	"Keys.None"
+)
+
+(Space.629
+)
+
+(Choice.630
+	Help:	"Displays the Extensions dialog"
+	HelpTopic:	"Extensions"
+	Label:	"Extensions..."
+	Click:	"Appl.GetExtensionWin"
+	Shortcut:	"Keys.None"
+)
+
+(Space.631
+)
+
+(Choice.632
+	Help:	"Prints the view"
+	HelpTopic:	"Print"
+	Label:	"&Print..."
+	Click:	"View.Print"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.633
+	Help:	"Edits the printer and the printing options"
+	HelpTopic:	"Print_Setup"
+	Label:	"P&rint Setup..."
+	Click:	"Project.PrintSetup"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.634
+	Help:	"Exports the view"
+	HelpTopic:	"Export"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Export..."
+	Click:	"View.ExportDisp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.635
+	InternalName:	"AVINET"
+)
+
+(Choice.636
+	InternalName:	"AVINET"
+	Disabled:	1
+	Help:	"Starts or stops serving this view to the web."
+	HelpTopic:	"Inet_Serve@inetmap.hlp"
+	Update:	"AVINETMP.ServeMapUpdate"
+	Label:	"Serve"
+	Click:	"AVINETMP.ServeMap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.637
+	InternalName:	"AVINET"
+	Help:	"Opens the Web Page Setup dialog where you supply information and create HTML files."
+	HelpTopic:	"Inet_Web_Page_Setup@inetmap.hlp"
+	Update:	"AVINETMP.SetupUpdate"
+	Label:	"Web Page Setup..."
+	Click:	"AVINETMP.WebpageSetup"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.638
+	InternalName:	"AVINET"
+	Help:	"Set up the options for MapCafe"
+	HelpTopic:	"Inet_MapCafe_Setup@inetmap.hlp"
+	Update:	"AVINETMP.SetupUpdate"
+	Label:	"MapCafe Setup..."
+	Click:	"AVINETMP.MapSetup"
+	Shortcut:	"Keys.None"
+)
+
+(Space.639
+)
+
+(Choice.640
+	Help:	"Displays the dialog box to delete, edit, and copy data sources"
+	HelpTopic:	"Manage_Sources"
+	Label:	"&Manage Data Sources..."
+	Click:	"View.ManageSources"
+	Shortcut:	"Keys.None"
+)
+
+(Space.641
+)
+
+(Choice.642
+	Help:	"Exits ArcView"
+	HelpTopic:	"Exit"
+	Label:	"E&xit"
+	Click:	"Project.Exit"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.643
+	InternalName:	"Edit"
+	Child:	644
+	Child:	645
+	Child:	646
+	Child:	647
+	Child:	648
+	Child:	649
+	Child:	650
+	Child:	651
+	Child:	652
+	Child:	653
+	Child:	654
+	Child:	655
+	Child:	656
+	Child:	657
+	Child:	658
+	Child:	659
+	Child:	660
+	Child:	661
+	Child:	662
+	Label:	"&Edit"
+)
+
+(Choice.644
+	Help:	"Cuts the active themes to the clipboard"
+	HelpTopic:	"Cut_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"Cut T&hemes"
+	Click:	"View.CutThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.645
+	Help:	"Copies the active themes to the clipboard"
+	HelpTopic:	"Copy_Themes"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Cop&y Themes"
+	Click:	"View.CopyThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.646
+	Help:	"Removes the active themes from the view"
+	HelpTopic:	"Delete_Themes"
+	Update:	"View.ActiveDeletableThemesUpdate"
+	Label:	"De&lete Themes"
+	Click:	"View.DeleteThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Space.647
+)
+
+(Choice.648
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"&Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.Ctrl+Z"
+)
+
+(Choice.649
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	HelpTopic:	"Redo_Feature_Edit_on_a_view"
+	Update:	"View.RedoEditUpdate"
+	Label:	"&Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.Ctrl+Y"
+)
+
+(Space.650
+)
+
+(Choice.651
+	Disabled:	1
+	Help:	"Cuts the selected graphics to the clipboard"
+	HelpTopic:	"Cut_Graphics"
+	Update:	"View.CutUpdate"
+	Label:	"Cu&t Graphics"
+	Click:	"View.CutGraphics"
+	Shortcut:	"Keys.Ctrl+X"
+)
+
+(Choice.652
+	Disabled:	1
+	Help:	"Copies the selected graphics to the clipboard"
+	HelpTopic:	"Copy_Graphics"
+	Update:	"View.CopyUpdate"
+	Label:	"&Copy Graphics"
+	Click:	"View.CopyGraphics"
+	Shortcut:	"Keys.Ctrl+C"
+)
+
+(Choice.653
+	Disabled:	1
+	Help:	"Removes the selected graphics from the view"
+	HelpTopic:	"Delete_Graphics"
+	Update:	"View.DeleteUpdate"
+	Label:	"&Delete Graphics"
+	Click:	"View.DeleteGraphics"
+	Shortcut:	"Keys.Del"
+)
+
+(Space.654
+)
+
+(Choice.655
+	Disabled:	1
+	Help:	"Combines the selected polygons"
+	HelpTopic:	"Combine_Graphics"
+	Update:	"View.CombineUpdate"
+	Label:	"Com&bine Graphics"
+	Click:	"View.CombineGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.656
+	Disabled:	1
+	Help:	"Unions the selected graphics to create a new graphic"
+	HelpTopic:	"Union_Graphics"
+	Update:	"View.UnionUpdate"
+	Label:	"U&nion Graphics"
+	Click:	"View.UnionGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.657
+	Disabled:	1
+	Help:	"Subtracts one selected polygon from the other selected polygon"
+	HelpTopic:	"Subtract_Graphics"
+	Update:	"View.SubtractUpdate"
+	Label:	"&Subtract Graphics"
+	Click:	"View.SubtractGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.658
+	Disabled:	1
+	Help:	"Creates a new polygon from the area  of overlap between the selected polygons"
+	HelpTopic:	"Intersect_Graphics"
+	Update:	"View.IntersectUpdate"
+	Label:	"&Intersect Graphics"
+	Click:	"View.IntersectGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.659
+)
+
+(Choice.660
+	Disabled:	1
+	Help:	"Inserts the contents of the clipboard"
+	HelpTopic:	"Paste"
+	Update:	"View.PasteUpdate"
+	Label:	"&Paste"
+	Click:	"View.Paste"
+	Shortcut:	"Keys.Ctrl+V"
+)
+
+(Space.661
+)
+
+(Choice.662
+	Disabled:	1
+	Help:	"Selects all graphics in the view"
+	HelpTopic:	"Select_All_Graphics"
+	Update:	"View.HasGraphicsUpdate"
+	Label:	"Select &All Graphics"
+	Click:	"Graphic.SelectAll"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.663
+	InternalName:	"View"
+	Child:	664
+	Child:	665
+	Child:	666
+	Child:	667
+	Child:	668
+	Child:	669
+	Child:	670
+	Child:	671
+	Child:	672
+	Child:	673
+	Child:	674
+	Child:	675
+	Child:	676
+	Child:	677
+	Child:	678
+	Child:	679
+	Child:	680
+	Child:	681
+	Child:	682
+	Child:	683
+	Child:	684
+	Child:	685
+	Label:	"&View"
+)
+
+(Choice.664
+	Help:	"Displays the dialog box to edit properties of the view"
+	HelpTopic:	"View_Properties"
+	Label:	"&Properties..."
+	Click:	"View.Properties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.665
+)
+
+(Choice.666
+	Help:	"Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Label:	"&Add Theme..."
+	Click:	"View.Add"
+	Shortcut:	"Keys.Ctrl+T"
+)
+
+(Choice.667
+	Disabled:	1
+	Help:	"Displays a dialog box to create a geocoded theme"
+	HelpTopic:	"Geocode_Addresses"
+	Update:	"View.GeocodeUpdate"
+	Label:	"&Geocode Addresses..."
+	Click:	"View.Geocode"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.668
+	Help:	"Displays a dialog box to create an XY or dynamic segmentation event-based theme "
+	HelpTopic:	"Add_Event_Theme"
+	Update:	"View.AddEventUpdate"
+	Label:	"Add &Event Theme..."
+	Click:	"View.AddEvent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.669
+	Help:	"Creates a new theme"
+	HelpTopic:	"New_Theme"
+	Label:	"&New Theme..."
+	Click:	"View.NewTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.670
+	Help:	"Makes all themes visible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"&Themes On"
+	Click:	"View.ThemesOn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.671
+	Help:	"Makes all themes invisible"
+	HelpTopic:	"Themes_On_Themes_Off"
+	Update:	"View.HasThemesUpdate"
+	Label:	"T&hemes Off"
+	Click:	"View.ThemesOff"
+	Shortcut:	"Keys.None"
+)
+
+(Space.672
+)
+
+(Choice.673
+	Help:	"Create a Layout from the View"
+	HelpTopic:	"Layout_menu_choice"
+	Update:	"View.HasThemesUpdate"
+	Label:	"La&yout..."
+	Click:	"View.Layout"
+	Shortcut:	"Keys.None"
+)
+
+(Space.674
+)
+
+(Choice.675
+	Help:	"Shows a dialog where you can change the style of the TOC"
+	HelpTopic:	"TOC_Defaults"
+	Update:	"TocDefs.ShowUpdate"
+	Label:	"TOC Style..."
+	Click:	"TocDefs.Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.676
+)
+
+(Choice.677
+	Help:	"Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Label:	"Full E&xtent"
+	Click:	"View.ZoomFullExtent"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.678
+	Help:	"Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &In"
+	Click:	"View.ZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.679
+	Help:	"Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom &Out"
+	Click:	"View.ZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.680
+	Help:	"Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Zoom To Themes"
+	Click:	"View.ZoomToThemes"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.681
+	Help:	"Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom To &Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.682
+	Disabled:	1
+	Help:	"Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Label:	"Zoom Pre&vious"
+	Click:	"View.UndoZoom"
+	Shortcut:	"Keys.None"
+)
+
+(Space.683
+)
+
+(Choice.684
+	Help:	"Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Find..."
+	Click:	"View.Find"
+	Shortcut:	"Keys.Ctrl+F"
+)
+
+(Choice.685
+	Disabled:	1
+	Help:	"Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Label:	"&Locate Address..."
+	Click:	"View.Locate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.686
+	InternalName:	"Theme"
+	Child:	687
+	Child:	688
+	Child:	689
+	Child:	690
+	Child:	691
+	Child:	692
+	Child:	693
+	Child:	694
+	Child:	695
+	Child:	696
+	Child:	697
+	Child:	698
+	Child:	699
+	Child:	700
+	Child:	701
+	Child:	702
+	Child:	703
+	Child:	704
+	Child:	705
+	Child:	706
+	Child:	707
+	Child:	708
+	Label:	"&Theme"
+)
+
+(Choice.687
+	Help:	"Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Properties..."
+	Click:	"View.ThemeProperties"
+	Shortcut:	"Keys.None"
+)
+
+(Space.688
+)
+
+(Choice.689
+	Help:	"Starts or stops editing of shapefile"
+	HelpTopic:	"Start_Stop_Editing_in_a_view"
+	Update:	"View.ToggleEditingUpdate"
+	Label:	"Start &Editing"
+	Click:	"View.ToggleEditing"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.690
+	Disabled:	1
+	Help:	"Save edits to the source shapefile"
+	HelpTopic:	"Save_edits_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save Ed&its"
+	Click:	"View.SaveEdits"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.691
+	Disabled:	1
+	Help:	"Saves edits to a new shapefile"
+	HelpTopic:	"Save_edits_as_theme"
+	Update:	"View.SaveEditsUpdate"
+	Label:	"Save E&dits As..."
+	Click:	"View.SaveEditsAs"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.692
+	Help:	"Converts a theme to a shapefile"
+	HelpTopic:	"Convert_to_Shapefile"
+	Update:	"View.ExportUpdate"
+	Label:	"Convert to &Shapefile..."
+	Click:	"View.Export"
+	Shortcut:	"Keys.None"
+)
+
+(Space.693
+)
+
+(Choice.694
+	Help:	"Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"Edit &Legend..."
+	Click:	"View.EditLegendClick"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.695
+	Help:	"Shows or hides the active themes' legends"
+	HelpTopic:	"Hide_show_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Label:	"&Hide/Show Legend"
+	Click:	"View.ToggleLegend"
+	Shortcut:	"Keys.None"
+)
+
+(Space.696
+)
+
+(Choice.697
+	Disabled:	1
+	Help:	"Displays the Re-match dialog for re-matching addresses"
+	HelpTopic:	"Re_match_Addresses"
+	Update:	"View.EditMatchUpdate"
+	Label:	"&Re-match Addresses..."
+	Click:	"View.EditMatch"
+	Shortcut:	"Keys.None"
+)
+
+(Space.698
+)
+
+(Choice.699
+	Help:	"Labels features in active, visible themes"
+	HelpTopic:	"Auto_label"
+	Update:	"View.LabelThemesUpdate"
+	Label:	"&Auto-label..."
+	Click:	"View.LabelThemes"
+	Shortcut:	"Keys.Ctrl+L"
+)
+
+(Choice.700
+	Disabled:	1
+	Help:	"Removes any labels from active themes"
+	HelpTopic:	"Remove_Labels"
+	Update:	"View.RemoveThemeLabelsUpdate"
+	Label:	"Rem&ove Labels"
+	Click:	"View.RemoveThemeLabels"
+	Shortcut:	"Keys.Ctrl+R"
+)
+
+(Choice.701
+	Disabled:	1
+	Help:	"Removes the overlapping labels from active themes, if they are still green."
+	HelpTopic:	"Remove_Overlapping_Labels"
+	Update:	"View.RemoveOverlapThemeLabelsUpdate"
+	Label:	"Remove Overlappi&ng Labels"
+	Click:	"View.RemoveOverlapThemeLabels"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.702
+	Disabled:	1
+	Help:	"Converts selected overlapping labels to symbol of selected good label"
+	HelpTopic:	"Convert_Overlapping_Labels"
+	Update:	"View.ConvertOverlapLabelsUpdate"
+	Label:	"&Convert Overlapping Labels"
+	Click:	"View.ConvertOverlapLabels"
+	Shortcut:	"Keys.Ctrl+O"
+)
+
+(Space.703
+)
+
+(Choice.704
+	Help:	"Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Label:	"&Table..."
+	Click:	"View.ShowTable"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.705
+	Help:	"Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"&Query..."
+	Click:	"View.Query"
+	Shortcut:	"Keys.Ctrl+Q"
+)
+
+(Choice.706
+	Help:	"Selects features in the active themes using another theme's features"
+	HelpTopic:	"Select_By_Theme"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Select &By Theme..."
+	Click:	"View.SelectByTheme"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.707
+	Help:	"Creates buffers around features"
+	HelpTopic:	"Create_Buffer_Choice"
+	Update:	"WizardBuffer.OpenDialogUpdate"
+	Label:	"Create Buffers..."
+	Click:	"WizardBuffer.OpenDialog"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.708
+	Help:	"Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selected &Features"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.709
+	InternalName:	"Graphics"
+	Child:	710
+	Child:	711
+	Child:	712
+	Child:	713
+	Child:	714
+	Child:	715
+	Child:	716
+	Child:	717
+	Child:	718
+	Child:	719
+	Child:	720
+	Child:	721
+	Child:	722
+	Child:	723
+	Child:	724
+	Label:	"&Graphics"
+)
+
+(Choice.710
+	Disabled:	1
+	Help:	"Displays the property editor for the selected graphic"
+	HelpTopic:	"Graphic_Properties"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Properties..."
+	Click:	"Graphic.Edit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.711
+)
+
+(Choice.712
+	Help:	"Shows a dialog where you can set the default values for the label and text tools"
+	HelpTopic:	"Default_settings_for_text_and_label_tools"
+	Label:	"&Text and Label Defaults..."
+	Click:	"Graphic.Label Defaults Show"
+	Shortcut:	"Keys.None"
+)
+
+(Space.713
+)
+
+(Choice.714
+	Disabled:	1
+	Help:	"Displays a dialog box to adjust size and position of selected graphic"
+	HelpTopic:	"Size_and_Position"
+	Update:	"Graphic.SingleSelectionUpdate"
+	Label:	"&Size and Position..."
+	Click:	"Graphic.SizePos"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.715
+	Disabled:	1
+	Help:	"Aligns the selected graphics"
+	HelpTopic:	"Align"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"&Align..."
+	Click:	"Graphic.Align"
+	Shortcut:	"Keys.Ctrl+A"
+)
+
+(Space.716
+)
+
+(Choice.717
+	Disabled:	1
+	Help:	"Moves selected graphics in front of other graphics"
+	HelpTopic:	"Bring_to_Front_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Bring to &Front"
+	Click:	"Graphic.ToFront"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.718
+	Disabled:	1
+	Help:	"Moves selected graphics behind other graphics"
+	HelpTopic:	"Send_to_Back_on_a_view"
+	Update:	"Graphic.HasSelectionUpdate"
+	Label:	"Send to &Back "
+	Click:	"Graphic.ToBack"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.719
+	Disabled:	1
+	Help:	"Groups selected graphics"
+	HelpTopic:	"Group_on_a_view"
+	Update:	"Graphic.GroupUpdate"
+	Label:	"&Group"
+	Click:	"Graphic.Group"
+	Shortcut:	"Keys.Ctrl+G"
+)
+
+(Choice.720
+	Disabled:	1
+	Help:	"Ungroups selected graphics"
+	HelpTopic:	"Ungroup_on_a_view"
+	Update:	"Graphic.UngroupUpdate"
+	Label:	"&Ungroup"
+	Click:	"Graphic.Ungroup"
+	Shortcut:	"Keys.Ctrl+U"
+)
+
+(Space.721
+)
+
+(Choice.722
+	Disabled:	1
+	Help:	"Associates selected graphics with active themes"
+	HelpTopic:	"Attach_Graphics"
+	Update:	"View.AddGraphicsUpdate"
+	Label:	"A&ttach Graphics"
+	Click:	"View.AddGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.723
+	Disabled:	1
+	Help:	"Removes association between graphics and active themes"
+	HelpTopic:	"Detach_Graphics"
+	Update:	"View.ClearGraphicsUpdate"
+	Label:	"&Detach Graphics"
+	Click:	"View.ClearGraphics"
+	Shortcut:	"Keys.None"
+)
+
+(Space.724
+)
+
+(PMenu.725
+	Tag:	"Xtools1234"
+	Label:	"&XTools"
+)
+
+(PMenu.755
+	InternalName:	"Window"
+	Child:	756
+	Child:	757
+	Child:	758
+	Child:	759
+	Child:	760
+	Child:	761
+	Child:	763
+	Child:	764
+	Label:	"&Window"
+)
+
+(Choice.756
+	Help:	"Arranges windows as non-overlapping tiles"
+	HelpTopic:	"Tile"
+	Label:	"&Tile"
+	Click:	"Project.Tile"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.757
+	Help:	"Arranges windows"
+	HelpTopic:	"Cascade"
+	Label:	"&Cascade"
+	Click:	"Project.Cascade"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.758
+	Help:	"Arranges iconified windows"
+	HelpTopic:	"Arrange_Icons"
+	Label:	"&Arrange Icons"
+	Click:	"Project.ArrangeIcons"
+	Shortcut:	"Keys.None"
+)
+
+(Space.759
+)
+
+(Choice.760
+	Help:	"Shows the symbol window"
+	HelpTopic:	"Show_Symbol_Window"
+	Label:	"Show Symbol Window..."
+	Click:	"Project.ShowHideSymWin"
+	Shortcut:	"Keys.Ctrl+P"
+)
+
+(Space.761
+	ObjectTag:	762
+	Update:	"WindowMenuUpdate"
+)
+
+(AVStr.762
+	S:	"projarambhag.apr View1"
+)
+
+(Choice.763
+	Help:	"Activates projarambhag.apr"
+	Label:	"&1 projarambhag.apr"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.764
+	Help:	"Activates View1"
+	Label:	"&2 View1"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.765
+	InternalName:	"Help"
+	Child:	766
+	Child:	767
+	Child:	768
+	Child:	769
+	Label:	"&Help"
+)
+
+(Choice.766
+	Help:	"Displays the dialog for browsing and searching ArcView's help system"
+	HelpTopic:	"Help_on_Help_Topics"
+	Label:	"Help &Topics..."
+	Click:	"Project.HelpTopics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.767
+	Help:	"Provides instructions for how to obtain help from ArcView"
+	HelpTopic:	"Help_on_How_to_Get_Help"
+	Label:	"&How to Get Help..."
+	Click:	"Project.HelpHelp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.768
+)
+
+(Choice.769
+	Help:	"Provides information about ArcView"
+	HelpTopic:	"About"
+	Label:	"&About ArcView..."
+	Click:	"Project.About"
+	Shortcut:	"Keys.None"
+)
+
+(ButnBar.770
+	Child:	771
+	Child:	773
+	Child:	774
+	Child:	776
+	Child:	777
+	Child:	779
+	Child:	781
+	Child:	783
+	Child:	784
+	Child:	786
+	Child:	788
+	Child:	790
+	Child:	791
+	Child:	793
+	Child:	795
+	Child:	797
+	Child:	799
+	Child:	801
+	Child:	803
+	Child:	804
+	Child:	806
+	Child:	808
+	Child:	809
+)
+
+(Butn.771
+	Help:	"Save Project//Saves the current project"
+	HelpTopic:	"Save_Project"
+	Icon:	772
+	Click:	"Project.Save"
+)
+
+(AVIcon.772
+	Name:	"Save"
+	Res:	"Icons.Save"
+
+)
+
+(Space.773
+)
+
+(Butn.774
+	Help:	"Add Theme//Inserts themes into the view"
+	HelpTopic:	"Add_Theme"
+	Icon:	775
+	Click:	"View.Add"
+)
+
+(AVIcon.775
+	Name:	"AddTheme"
+	Res:	"Icons.AddTheme"
+
+)
+
+(Space.776
+)
+
+(Butn.777
+	Help:	"Theme Properties//Displays the dialog box to edit properties of the active theme"
+	HelpTopic:	"Theme_Properties"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	778
+	Click:	"View.ThemeProperties"
+)
+
+(AVIcon.778
+	Name:	"Props"
+	Res:	"Icons.Props"
+
+)
+
+(Butn.779
+	Help:	"Edit Legend//Displays the legends of the active themes"
+	HelpTopic:	"Edit_Legend"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	780
+	Click:	"View.EditLegendClick"
+)
+
+(AVIcon.780
+	Name:	"Legend"
+	Res:	"Icons.Legend"
+
+)
+
+(Butn.781
+	Help:	"Open Theme Table//Opens the tables of the active themes"
+	HelpTopic:	"Open_Theme_Table"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	782
+	Click:	"View.ShowTable"
+)
+
+(AVIcon.782
+	Name:	"Table"
+	Res:	"Icons.Table"
+
+)
+
+(Space.783
+)
+
+(Butn.784
+	Help:	"Find//Finds features in the active themes using the text you enter"
+	HelpTopic:	"Find"
+	Update:	"View.TabularThemesUpdate"
+	Icon:	785
+	Click:	"View.Find"
+)
+
+(AVIcon.785
+	Name:	"Find"
+	Res:	"Icons.Find"
+
+)
+
+(Butn.786
+	Disabled:	1
+	Help:	"Locate Address//Locates an address in the active, matchable theme"
+	HelpTopic:	"Locate_Address"
+	Update:	"View.LocateUpdate"
+	Icon:	787
+	Click:	"View.Locate"
+)
+
+(AVIcon.787
+	Name:	"AddMatch"
+	Res:	"Icons.AddMatch"
+
+)
+
+(Butn.788
+	Help:	"Query Builder//Displays the Query Builder to select features with a logical expression"
+	HelpTopic:	"Query_Builder"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	789
+	Click:	"View.Query"
+)
+
+(AVIcon.789
+	Name:	"QueryBuilder"
+	Res:	"Icons.QueryBuilder"
+
+)
+
+(Space.790
+)
+
+(Butn.791
+	Help:	"Zoom to Full Extent//Zooms to the extent of all themes"
+	HelpTopic:	"Zoom_to_Full_Extent"
+	Update:	"View.HasDataUpdate"
+	Icon:	792
+	Click:	"View.ZoomFullExtent"
+)
+
+(AVIcon.792
+	Name:	"ZoomView"
+	Res:	"Icons.ZoomView"
+
+)
+
+(Butn.793
+	Help:	"Zoom to Active Theme(s)//Zooms to the extent of active themes"
+	HelpTopic:	"Zoom_to_Active_Theme"
+	Update:	"View.ActiveThemesUpdate"
+	Icon:	794
+	Click:	"View.ZoomToThemes"
+)
+
+(AVIcon.794
+	Name:	"ZoomTheme"
+	Res:	"Icons.ZoomTheme"
+
+)
+
+(Butn.795
+	Help:	"Zoom to Selected//Zooms to the extent of the selected features"
+	HelpTopic:	"Zoom_to_Selected"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	796
+	Click:	"View.ZoomToSelected"
+)
+
+(AVIcon.796
+	Name:	"ZoomToSelected"
+	Res:	"Icons.ZoomToSelected"
+
+)
+
+(Butn.797
+	Help:	"Zoom In//Zooms in on the center of the display"
+	HelpTopic:	"Zoom_In"
+	Update:	"View.HasDataUpdate"
+	Icon:	798
+	Click:	"View.ZoomIn"
+)
+
+(AVIcon.798
+	Name:	"ZoomIn"
+	Res:	"Icons.ZoomIn"
+
+)
+
+(Butn.799
+	Help:	"Zoom Out//Zooms out from the center of the display"
+	HelpTopic:	"Zoom_Out"
+	Update:	"View.HasDataUpdate"
+	Icon:	800
+	Click:	"View.ZoomOut"
+)
+
+(AVIcon.800
+	Name:	"ZoomOut"
+	Res:	"Icons.ZoomOut"
+
+)
+
+(Butn.801
+	Disabled:	1
+	Help:	"Zoom to Previous Extent//Goes back to the previous extent you were viewing"
+	HelpTopic:	"Zoom_Previous"
+	Update:	"View.UndoZoomUpdate"
+	Icon:	802
+	Click:	"View.UndoZoom"
+)
+
+(AVIcon.802
+	Name:	"ZoomPrevious"
+	Res:	"Icons.ZoomPrevious"
+
+)
+
+(Space.803
+)
+
+(Butn.804
+	Disabled:	1
+	Help:	"Select Features Using Graphic//Selects features in active themes using selected graphics"
+	HelpTopic:	"Select_Features_Using_Graphic"
+	Update:	"View.SpatialSelectUpdate"
+	Icon:	805
+	Click:	"View.SpatialSelect"
+)
+
+(AVIcon.805
+	Name:	"SpatialSelect"
+	Res:	"Icons.SpatialSelect"
+
+)
+
+(Butn.806
+	Help:	"Clear Selected Features//Unselects the selected features of all active themes"
+	HelpTopic:	"Clear_Selected_Features"
+	Update:	"View.AttributeThemesUpdate"
+	Icon:	807
+	Click:	"View.ClearSelect"
+)
+
+(AVIcon.807
+	Name:	"SelectNone"
+	Res:	"Icons.SelectNone"
+
+)
+
+(Space.808
+)
+
+(Butn.809
+	Help:	"Help//Gets help about the next button, tool, or menu choice you click"
+	HelpTopic:	"Help_button"
+	Icon:	810
+	Click:	"Help.Tool"
+)
+
+(AVIcon.810
+	Name:	"HelpTool"
+	Res:	"Icons.HelpTool"
+
+)
+
+(PopupSet.814
+	Child:	815
+)
+
+(Popup.815
+	Child:	816
+	Child:	817
+	Child:	818
+	Child:	819
+	Child:	820
+	Child:	821
+	Child:	822
+	Child:	823
+	Child:	824
+	Child:	825
+	Child:	826
+	Child:	827
+	Child:	828
+	Child:	829
+	Child:	830
+	Child:	831
+	Child:	832
+	Child:	833
+	Child:	834
+	Child:	835
+	Label:	"Menu"
+)
+
+(Choice.816
+	Disabled:	1
+	Invisible:	1
+	Help:	"Deletes the last entered point on the line or polygon being drawn"
+	Update:	"View.DelLastPointUpdate"
+	Label:	"Delete Last Point"
+	Click:	"View.DeleteLastPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.817
+	Disabled:	1
+	Help:	"Undo the last edit to graphics on a view"
+	HelpTopic:	"Undo_Graphic_Edit_on_a_view"
+	Update:	"View.UndoEditUpdate"
+	Label:	"Undo Graphic Edit"
+	Click:	"View.UndoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.818
+	Disabled:	1
+	Invisible:	1
+	Help:	"Redo the last edit operation on a theme that was undone"
+	Update:	"View.RedoEditUpdate"
+	Label:	"Redo Feature Edit"
+	Click:	"View.RedoEdit"
+	Shortcut:	"Keys.None"
+)
+
+(Space.819
+)
+
+(Choice.820
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns general snapping on"
+	Update:	"View.ToggleGeneralSnapUpdate"
+	Label:	"Enable General Snapping"
+	Click:	"View.ToggleGeneralSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.821
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns interactive snapping on"
+	Update:	"View.ToggleInteractiveSnapUpdate"
+	Label:	"Enable Interactive Snapping"
+	Click:	"View.ToggleInteractiveSnap"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.822
+	Disabled:	1
+	Invisible:	1
+	Help:	"Turns snap tolerance cursor off"
+	Update:	"View.ToggleTolCursorUpdate"
+	Label:	"Hide Snap Tolerance Cursor"
+	Click:	"View.ToggleTolCursor"
+	Shortcut:	"Keys.None"
+)
+
+(Space.823
+)
+
+(Choice.824
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest vertex within the user tolerance"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Vertex"
+	Click:	"View.SnapToVertex"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.825
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest line segment"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Boundary"
+	Click:	"View.SnapToBoundary"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.826
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest node common to two or more features"
+	Update:	"View.InteractiveSnapUpdate"
+	Label:	"Snap to Intersection"
+	Click:	"View.SnapToIntersection"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.827
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snaps the next entered point to the nearest endpoint of an existing line"
+	Update:	"View.SnapToEndPointUpdate"
+	Label:	"Snap to Endpoint"
+	Click:	"View.SnapToEndPoint"
+	Shortcut:	"Keys.None"
+)
+
+(Space.828
+)
+
+(Choice.829
+	Help:	"Unselects the selected features in all active themes"
+	Update:	"View.AttributeThemesUpdate"
+	Label:	"Clear Selection"
+	Click:	"View.ClearSelect"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.830
+	Help:	"Zooms in at point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom In"
+	Click:	"View.PopupZoomIn"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.831
+	Help:	"Zooms out from point where you click to bring up popup menu"
+	Update:	"View.HasDataUpdate"
+	Label:	"Zoom Out"
+	Click:	"View.PopupZoomOut"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.832
+	Help:	"Zooms to the extent of the selected features"
+	Update:	"View.SelectableThemesUpdate"
+	Label:	"Zoom to Selected"
+	Click:	"View.ZoomToSelected"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.833
+	Help:	"Centers display on point where you click to bring up popup"
+	Update:	"View.HasDataUpdate"
+	Label:	"Pan"
+	Click:	"View.PopupPan"
+	Shortcut:	"Keys.None"
+)
+
+(Space.834
+)
+
+(Choice.835
+	Disabled:	1
+	Help:	"Opens the shape properties window for editing vertex locations"
+	Update:	"ShapeWin.PopUp Update"
+	Label:	"Shape Properties"
+	Click:	"ShapeWin.PopUp Open"
+	Shortcut:	"Keys.None"
+)
+
+(ToolBar.836
+	Child:	837
+	Child:	839
+	Child:	841
+	Child:	843
+	Child:	845
+	Child:	847
+	Child:	849
+	Child:	851
+	Child:	853
+	Child:	855
+	Child:	857
+	Child:	876
+	Child:	889
+	Child:	908
+)
+
+(Tool.837
+	Help:	"Identify//Provides information about a feature"
+	HelpTopic:	"Identify_tool"
+	Update:	"View.IdentifyUpdate"
+	Icon:	838
+	Cursor:	"Cursors.ID"
+	Apply:	"View.Identify"
+)
+
+(AVIcon.838
+	Name:	"ID"
+	Res:	"Icons.ID"
+
+)
+
+(Tool.839
+	Help:	"Pointer//Selects, moves, and resizes graphics"
+	HelpTopic:	"Pointer_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	840
+	Cursor:	"Cursors.Select"
+	Apply:	"View.Select"
+	Click:	"View.SelectTool"
+)
+
+(AVIcon.840
+	Name:	"Select"
+	Res:	"Icons.Select"
+
+)
+
+(Tool.841
+	Disabled:	1
+	Help:	"Vertex Edit//Adds, moves, and deletes vertices of features and graphics"
+	HelpTopic:	"Vertex_Edit_tool"
+	Update:	"View.SelectToEditUpdate"
+	Icon:	842
+	Cursor:	"Cursors.SelectEdit"
+	Apply:	"View.SelectToEdit"
+	Click:	"View.SelectToEditTool"
+)
+
+(AVIcon.842
+	Name:	"SelectEdit"
+	Res:	"Icons.SelectEdit"
+
+)
+
+(Tool.843
+	Help:	"Select Feature//Selects features in the active themes by pointing or dragging"
+	HelpTopic:	"Select_Feature_tool"
+	Update:	"View.SelectableThemesUpdate"
+	Icon:	844
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SelectPoint"
+)
+
+(AVIcon.844
+	Name:	"FeatureSelect"
+	Res:	"Icons.FeatureSelect"
+
+)
+
+(Tool.845
+	Help:	"Zoom In//Zooms in at a point you click or zooms in on a rectangle you drag"
+	HelpTopic:	"Zoom_In_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	846
+	Cursor:	"Cursors.ZoomIn"
+	Apply:	"View.ZoomInTool"
+)
+
+(AVIcon.846
+	Name:	"ZoomInTool"
+	Res:	"Icons.ZoomInTool"
+
+)
+
+(Tool.847
+	Help:	"Zoom Out//Zooms out from a point you click or zooms out to include a rectangle you drag"
+	HelpTopic:	"Zoom_Out_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	848
+	Cursor:	"Cursors.ZoomOut"
+	Apply:	"View.ZoomOutTool"
+)
+
+(AVIcon.848
+	Name:	"ZoomOutTool"
+	Res:	"Icons.ZoomOutTool"
+
+)
+
+(Tool.849
+	Help:	"Pan//Drags the display in the direction you move the cursor"
+	HelpTopic:	"Pan_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	850
+	Cursor:	"Cursors.Pan"
+	Apply:	"View.Pan"
+)
+
+(AVIcon.850
+	Name:	"Pan"
+	Res:	"Icons.Pan"
+
+)
+
+(Tool.851
+	Help:	"Measure//Measures distance"
+	HelpTopic:	"Measure_tool"
+	Update:	"View.HasDataUpdate"
+	Icon:	852
+	Cursor:	"Cursors.Measure"
+	Apply:	"View.Measure"
+)
+
+(AVIcon.852
+	Name:	"Measure"
+	Res:	"Icons.Measure"
+
+)
+
+(Tool.853
+	Disabled:	1
+	Help:	"Hot Link//Follows a hot link in the active themes"
+	HelpTopic:	"Hot_Link_tool"
+	Update:	"View.HotLinkUpdate"
+	Icon:	854
+	Cursor:	"Cursors.Media"
+	Apply:	"View.HotLink"
+)
+
+(AVIcon.854
+	Name:	"Media"
+	Res:	"Icons.Media"
+
+)
+
+(Tool.855
+	Disabled:	1
+	Help:	"Area of Interest//Sets the view's Area Of Interest for library-based themes"
+	HelpTopic:	"Area_Of_Interest_tool"
+	Update:	"View.AOIToolUpdate"
+	Icon:	856
+	Cursor:	"Cursors.Default"
+	Apply:	"View.AOITool"
+)
+
+(AVIcon.856
+	Name:	"AOI"
+	Res:	"Icons.AOI"
+
+)
+
+(ToolMenu.857
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	858
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+	Child:	859
+	Child:	860
+	Child:	862
+	Child:	864
+	Child:	866
+	Child:	868
+	Child:	870
+	Child:	872
+	Child:	874
+)
+
+(AVIcon.858
+	Name:	"Tag"
+	Res:	"Icons.Tag"
+
+)
+
+(Tool.859
+	Disabled:	1
+	Help:	"Label//Labels a feature in the active theme with data from its table"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.LabelToolUpdate"
+	Icon:	858
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.LabelTool"
+)
+
+(Tool.860
+	Disabled:	1
+	Help:	"Callout Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	861
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.CalloutLabelTool"
+)
+
+(AVIcon.861
+	Name:	"CallOutLabel1"
+	Res:	"Icons.CallOutLabel1"
+
+)
+
+(Tool.862
+	Disabled:	1
+	Help:	"Bullet Leader Label//Click on a feature and drag in the direction you want the label to appear"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	863
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.BulletLeaderLabelTool"
+)
+
+(AVIcon.863
+	Name:	"CallOutLabel2"
+	Res:	"Icons.CallOutLabel2"
+
+)
+
+(Tool.864
+	Disabled:	1
+	Help:	"Banner Label//Click on a feature you want to label"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	865
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.ShadowBoxLabelTool"
+)
+
+(AVIcon.865
+	Name:	"CallOutLabel3"
+	Res:	"Icons.CallOutLabel3"
+
+)
+
+(Tool.866
+	Disabled:	1
+	Help:	"U.S. Interstate//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	867
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway1 Apply"
+)
+
+(AVIcon.867
+	Name:	"BW US Interstate"
+	Res:	"Icons.BW US Interstate"
+
+)
+
+(Tool.868
+	Disabled:	1
+	Help:	"U.S. Route//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	869
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway2 Apply"
+)
+
+(AVIcon.869
+	Name:	"USRoute"
+	Res:	"Icons.USRoute"
+
+)
+
+(Tool.870
+	Disabled:	1
+	Help:	"Generic State Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	871
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway3 Apply"
+)
+
+(AVIcon.871
+	Name:	"GenericStateHighway"
+	Res:	"Icons.GenericStateHighway"
+
+)
+
+(Tool.872
+	Disabled:	1
+	Help:	"Generic Square Hwy//Click where you want to place a highway shield"
+	HelpTopic:	"Label_Tool"
+	Update:	"View.CalloutUpdate"
+	Icon:	873
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway4 Apply"
+)
+
+(AVIcon.873
+	Name:	"GenericHighway1"
+	Res:	"Icons.GenericHighway1"
+
+)
+
+(Tool.874
+	Disabled:	1
+	Help:	"Generic Oval Hwy//Click where you want to place a highway shield"
+	Update:	"View.CalloutUpdate"
+	Icon:	875
+	Cursor:	"Cursors.Tag"
+	Apply:	"View.Highway5 Apply"
+)
+
+(AVIcon.875
+	Name:	"GenericHighway2"
+	Res:	"Icons.GenericHighway2"
+
+)
+
+(ToolMenu.876
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	877
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+	Child:	878
+	Child:	879
+	Child:	881
+	Child:	883
+	Child:	885
+	Child:	887
+)
+
+(AVIcon.877
+	Name:	"Text"
+	Res:	"Icons.Text"
+
+)
+
+(Tool.878
+	Help:	"Text//Creates text on the display"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	877
+	Cursor:	"Cursors.Text"
+	Apply:	"View.TextTool"
+	Click:	"SymWin.DisplayFontPanel"
+)
+
+(Tool.879
+	Help:	"Callout Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	880
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.CalloutTextTool"
+)
+
+(AVIcon.880
+	Name:	"CallOutText1"
+	Res:	"Icons.CallOutText1"
+
+)
+
+(Tool.881
+	Help:	"Bullet Leader Text//Click and drag to where you want your text to appear, then enter the text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	882
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.BulletLeaderTextTool"
+)
+
+(AVIcon.882
+	Name:	"CallOutText2"
+	Res:	"Icons.CallOutText2"
+
+)
+
+(Tool.883
+	Help:	"Banner Text//Click where you want your label to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	884
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.ShadowBoxTextTool"
+)
+
+(AVIcon.884
+	Name:	"CallOutText3"
+	Res:	"Icons.CallOutText3"
+
+)
+
+(Tool.885
+	Help:	"Drop-Shadow Text//Click where you want your text to appear and enter your text"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	886
+	Cursor:	"Cursors.Target"
+	Apply:	"View.CreateDropShadowText"
+)
+
+(AVIcon.886
+	Name:	"DropShadowText"
+	Res:	"Icons.DropShadowText"
+
+)
+
+(Tool.887
+	Help:	"Spline Text//Adds text that is aligned to a splined baseline"
+	HelpTopic:	"Text_tool"
+	Update:	"View.TextToolUpdate"
+	Icon:	888
+	Cursor:	"Cursors.Bullseye"
+	Apply:	"View.SplineText"
+)
+
+(AVIcon.888
+	Name:	"TextAligned"
+	Res:	"Icons.TextAligned"
+
+)
+
+(ToolMenu.889
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	890
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+	Child:	891
+	Child:	892
+	Child:	894
+	Child:	896
+	Child:	898
+	Child:	900
+	Child:	902
+	Child:	904
+	Child:	906
+)
+
+(AVIcon.890
+	Name:	"Point"
+	Res:	"Icons.Point"
+
+)
+
+(Tool.891
+	Help:	"Draw Point//Creates a point on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PointToolUpdate"
+	Icon:	890
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PointTool"
+	Click:	"SymWin.DisplayMarkerPanel"
+)
+
+(Tool.892
+	Help:	"Draw Straight Line//Creates a line on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.GraphicToolUpdate"
+	Icon:	893
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.LineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.893
+	Name:	"SelectLine"
+	Res:	"Icons.SelectLine"
+
+)
+
+(Tool.894
+	Help:	"Draw Line//Creates a line with two or more points on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyLineToolUpdate"
+	Icon:	895
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyLineTool"
+	Click:	"SymWin.DisplayPenPanel"
+)
+
+(AVIcon.895
+	Name:	"Lines"
+	Res:	"Icons.Lines"
+
+)
+
+(Tool.896
+	Help:	"Draw Rectangle//Creates a rectangle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	897
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.RectTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.897
+	Name:	"Rect"
+	Res:	"Icons.Rect"
+
+)
+
+(Tool.898
+	Help:	"Draw Circle//Creates a circle on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	899
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.CircleTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.899
+	Name:	"Disk"
+	Res:	"Icons.Disk"
+
+)
+
+(Tool.900
+	Help:	"Draw Polygon//Creates a polygon on the display"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.PolyToolUpdate"
+	Icon:	901
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.PolyTool"
+	Click:	"SymWin.DisplayFillPanel"
+)
+
+(AVIcon.901
+	Name:	"Poly"
+	Res:	"Icons.Poly"
+
+)
+
+(Tool.902
+	Disabled:	1
+	Help:	"Draw Line to Split Feature//Creates a line to split line features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitLineToolUpdate"
+	Icon:	903
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.903
+	Name:	"SplitLine"
+	Res:	"Icons.SplitLine"
+
+)
+
+(Tool.904
+	Disabled:	1
+	Help:	"Draw Line to Split Polygon//Creates a line to split polygon features"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.SplitPolyToolUpdate"
+	Icon:	905
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.SplitTool"
+)
+
+(AVIcon.905
+	Name:	"SplitPoly"
+	Res:	"Icons.SplitPoly"
+
+)
+
+(Tool.906
+	Disabled:	1
+	Help:	"Draw Line to Append Polygon//Appends a new polygon adjacent to other polygons"
+	HelpTopic:	"Draw_tool"
+	Update:	"View.AutoCompleteUpdate"
+	Icon:	907
+	Cursor:	"Cursors.CrossHair"
+	Apply:	"View.AutoCompleteTool"
+)
+
+(AVIcon.907
+	Name:	"AutoComplete"
+	Res:	"Icons.AutoComplete"
+
+)
+
+(ToolMenu.908
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	909
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+	Child:	910
+	Child:	911
+)
+
+(AVIcon.909
+	Name:	"SnapTool"
+	Res:	"Icons.SnapTool"
+
+)
+
+(Tool.910
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the general snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.SnapToolUpdate"
+	Icon:	909
+	Cursor:	"Cursors.Default"
+	Apply:	"View.SnapTool"
+)
+
+(Tool.911
+	Disabled:	1
+	Invisible:	1
+	Help:	"Snap//Sets the interactive snapping tolerance for the editable theme"
+	HelpTopic:	"Snap_tools"
+	Update:	"View.InteractiveSnapToolUpdate"
+	Icon:	912
+	Cursor:	"Cursors.Default"
+	Apply:	"View.InteractiveSnapTool"
+)
+
+(AVIcon.912
+	Name:	"SnapFeatureTool"
+	Res:	"Icons.SnapFeatureTool"
+
+)
+
+(AVIcon.913
+	Name:	"Icon"
+	Res:	"View.Icon"
+
+)
+
+(DocGUI.1429
+	Name:	"Project"
+	Type:	"Project"
+	Modified:	1
+	MenuBar:	1430
+	ButnBar:	1474
+	Popups:	1480
+	ToolBar:	1481
+	Icon:	1482
+)
+
+(MenuBar.1430
+	Child:	1431
+	Child:	1445
+	Child:	1455
+	Child:	1460
+	Child:	1469
+)
+
+(PMenu.1431
+	InternalName:	"File"
+	Child:	1432
+	Child:	1433
+	Child:	1434
+	Child:	1435
+	Child:	1436
+	Child:	1437
+	Child:	1438
+	Child:	1439
+	Child:	1440
+	Child:	1441
+	Child:	1442
+	Child:	1443
+	Child:	1444
+	Label:	"&File"
+)
+
+(Choice.1432
+	Help:	"Creates a new project"
+	HelpTopic:	"New_Project"
+	Label:	"&New Project"
+	Click:	"Project.New"
+	Shortcut:	"Keys.Ctrl+N"
+)
+
+(Choice.1433
+	Help:	"Opens an existing project"
+	HelpTopic:	"Open_Project"
+	Label:	"&Open Project..."
+	Click:	"Project.Open"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1434
+	Help:	"Closes the project window"
+	HelpTopic:	"Close_Project"
+	Label:	"&Close Project"
+	Click:	"Project.Close"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1435
+)
+
+(Choice.1436
+	Help:	"Saves the current project"
+	HelpTopic:	"Save_Project"
+	Label:	"&Save Project"
+	Click:	"Project.Save"
+	Shortcut:	"Keys.Ctrl+S"
+)
+
+(Choice.1437
+	Help:	"Saves the current project with a new name"
+	HelpTopic:	"Save_Project_As"
+	Label:	"Save Project &As..."
+	Click:	"Project.SaveAs"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1438
+)
+
+(Choice.1439
+	Help:	"Displays the Extensions dialog"
+	HelpTopic:	"Extensions"
+	Label:	"&Extensions..."
+	Click:	"Appl.GetExtensionWin"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1440
+)
+
+(Choice.1441
+	InternalName:	"AVINET"
+	Help:	"You choose the machine that serves your maps to the web."
+	HelpTopic:	"Inet_Choose_Web_Server@inetmap.hlp"
+	Update:	"AVINETMP.ChooseWebServerUpdate"
+	Label:	"Choose Web Server..."
+	Click:	"AVINETMP.ChooseServer"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1442
+	InternalName:	"AVINET"
+	Help:	"View or change webserving properties for views in this project."
+	HelpTopic:	"Inet_Map_Server_Status@inetmap.hlp"
+	Label:	"Map Server Status..."
+	Click:	"AVINETMP.Statwin"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1443
+	InternalName:	"AVINET"
+)
+
+(Choice.1444
+	Help:	"Exits ArcView"
+	HelpTopic:	"Exit"
+	Label:	"E&xit"
+	Click:	"Project.Exit"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1445
+	InternalName:	"Project"
+	Child:	1446
+	Child:	1447
+	Child:	1448
+	Child:	1449
+	Child:	1450
+	Child:	1451
+	Child:	1452
+	Child:	1453
+	Child:	1454
+	Label:	"&Project"
+)
+
+(Choice.1446
+	Help:	"Displays the dialog box to edit properties of the project"
+	HelpTopic:	"Project_Properties"
+	Label:	"&Properties..."
+	Click:	"Project.Properties"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1447
+	Help:	"Customizes the active project"
+	HelpTopic:	"Customize"
+	Update:	"Project.CustomizeUpdate"
+	Label:	"&Customize..."
+	Click:	"Project.Customize"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1448
+)
+
+(Choice.1449
+	Help:	"Renames the selected project component"
+	HelpTopic:	"Rename"
+	Update:	"Project.RenameUpdate"
+	Label:	"&Rename 'View1'..."
+	Click:	"Project.Rename"
+	Shortcut:	"Keys.Ctrl+R"
+)
+
+(Choice.1450
+	Help:	"Deletes the selected component from the project"
+	HelpTopic:	"Delete_Component"
+	Update:	"Project.DeleteUpdate"
+	Label:	"&Delete 'View1'..."
+	Click:	"Project.Delete"
+	Shortcut:	"Keys.Del"
+)
+
+(Space.1451
+)
+
+(Choice.1452
+	Help:	"Adds a table to the project"
+	HelpTopic:	"Add_Table"
+	Update:	"Project.AddTableUpdate"
+	Label:	"&Add Table..."
+	Click:	"Project.AddTable"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1453
+	Help:	"Creates a new project component from an external source"
+	HelpTopic:	"Import"
+	Update:	"Project.ImportUpdate"
+	Label:	"&Import..."
+	Click:	"Project.Import"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1454
+	Help:	"Opens the SQL Connection manager"
+	HelpTopic:	"SQL_Connect"
+	Update:	"Project.HasSQL"
+	Label:	"&SQL Connect..."
+	Click:	"Project.SQLConnect"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1455
+	Tag:	"Xtools1234"
+	Label:	"&XTools"
+)
+
+(PMenu.1460
+	InternalName:	"Window"
+	Child:	1461
+	Child:	1462
+	Child:	1463
+	Child:	1464
+	Child:	1465
+	Child:	1466
+	Child:	1468
+	Label:	"&Window"
+)
+
+(Choice.1461
+	Help:	"Arranges windows as non-overlapping tiles"
+	HelpTopic:	"Tile"
+	Label:	"&Tile"
+	Click:	"Project.Tile"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1462
+	Help:	"Arranges windows"
+	HelpTopic:	"Cascade"
+	Label:	"&Cascade"
+	Click:	"Project.Cascade"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1463
+	Help:	"Arranges iconified windows"
+	HelpTopic:	"Arrange_Icons"
+	Label:	"&Arrange Icons"
+	Click:	"Project.ArrangeIcons"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1464
+)
+
+(Choice.1465
+	Help:	"Shows the symbol window"
+	HelpTopic:	"Show_Symbol_Window"
+	Label:	"Show Symbol Window..."
+	Click:	"Project.ShowHideSymWin"
+	Shortcut:	"Keys.Ctrl+P"
+)
+
+(Space.1466
+	ObjectTag:	1467
+	Update:	"WindowMenuUpdate"
+)
+
+(AVStr.1467
+	S:	"projarambhag.apr"
+)
+
+(Choice.1468
+	Help:	"Activates projarambhag.apr"
+	Label:	"&1 projarambhag.apr"
+	Click:	"WindowActivate"
+	Shortcut:	"Keys.None"
+)
+
+(PMenu.1469
+	InternalName:	"Help"
+	Child:	1470
+	Child:	1471
+	Child:	1472
+	Child:	1473
+	Label:	"&Help"
+)
+
+(Choice.1470
+	Help:	"Displays the dialog for browsing and searching ArcView's help system"
+	HelpTopic:	"Help_on_Help_Topics"
+	Label:	"Help &Topics..."
+	Click:	"Project.HelpTopics"
+	Shortcut:	"Keys.None"
+)
+
+(Choice.1471
+	Help:	"Provides instructions for how to obtain help from ArcView"
+	HelpTopic:	"Help_on_How_to_Get_Help"
+	Label:	"&How to Get Help..."
+	Click:	"Project.HelpHelp"
+	Shortcut:	"Keys.None"
+)
+
+(Space.1472
+)
+
+(Choice.1473
+	Help:	"Provides information about ArcView"
+	HelpTopic:	"About"
+	Label:	"&About ArcView..."
+	Click:	"Project.About"
+	Shortcut:	"Keys.None"
+)
+
+(ButnBar.1474
+	Update:	"Project.UpdateButtons"
+	Child:	1475
+	Child:	1477
+	Child:	1478
+)
+
+(Butn.1475
+	Help:	"Save Project//Saves the current project"
+	HelpTopic:	"Save_Project"
+	Icon:	1476
+	Click:	"Project.Save"
+)
+
+(AVIcon.1476
+	Name:	"Save"
+	Res:	"Icons.Save"
+
+)
+
+(Space.1477
+)
+
+(Butn.1478
+	Help:	"Help//Gets help about the next button, tool, or menu choice you click"
+	HelpTopic:	"Help_button"
+	Icon:	1479
+	Click:	"Help.Tool"
+)
+
+(AVIcon.1479
+	Name:	"HelpTool"
+	Res:	"Icons.HelpTool"
+
+)
+
+(PopupSet.1480
+)
+
+(ToolBar.1481
+)
+
+(AVIcon.1482
+	Name:	"Icon"
+	Res:	"Project.Icon"
+
+)
+
+(FN.1501
+	Path:	"$HOME"
+)
+
+(TClr.1502
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1503
+	S:	"View"
+)
+
+(AVStr.1504
+	S:	"Table"
+)
+
+(AVStr.1505
+	S:	"Chart"
+)
+
+(AVStr.1506
+	S:	"Layout"
+)
+
+(AVStr.1507
+	S:	"Script"
+)
+
+(AVStr.1508
+	S:	"Project"
+)
+
+(AVStr.1509
+	S:	"Appl"
+)
+
